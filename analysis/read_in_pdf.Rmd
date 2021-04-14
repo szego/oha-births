@@ -1,0 +1,192 @@
+
+Processing the OHA births PDFs
+
+-----
+
+```{r setup}
+library(dplyr)
+library(tidyr)
+library(purrr)
+library(stringr)
+library(pdftools)
+```
+
+Alright, let's try...
+
+```{r}
+temp <- 
+  pdf_data("../data/facilcesarean20.pdf") %>% 
+  .[[1]] %>% 
+  arrange(y, x)
+
+temp
+```
+
+```{r}
+headings <- 
+  temp %>% 
+  arrange(y, x) %>% 
+  filter(
+    height == 15,
+    y > max(y[text == "Cesarean"])
+  ) %>% 
+  group_by(y) %>% 
+  summarize(text = paste(text, collapse = " "), .groups = "drop")
+
+headings
+```
+
+```{r}
+temp2 <- 
+  temp %>% 
+  select(x, y, space, text) %>% 
+  mutate(y = ifelse((y-1) %in% y, y-1, y)) %>%  # fix off-by-one alignments
+  arrange(y, x) %>% 
+  filter(y > min(headings$y), text != "County", x == 55 | y == lag(y)) %>% 
+  mutate(
+    text = 
+      text %>% 
+      str_replace("–", "0") %>% 
+      str_remove("\\.+$") %>% 
+      str_remove_all("(?<=\\d),(?=\\d)")
+  )
+
+temp2
+```
+
+```{r}
+out <- tibble(
+  y = integer(0),
+  facility = character(0),
+  total = character(0),
+  vaginal = character(0),
+  vbac = character(0),
+  cesarean = character(0)
+)
+
+i <- 1
+
+while(i > 0) {
+  j <- i
+  
+  while(temp2$space[j] == TRUE)
+    j <- j + 1
+  
+  out <- 
+    out %>% 
+    add_row(
+      y = temp2$y[i],
+      facility = paste(temp2$text[i:j], collapse = " "),
+      total = temp2$text[j+1],
+      vaginal = temp2$text[j+2],
+      vbac = temp2$text[j+3],
+      cesarean = temp2$text[j+4]
+    )
+  
+  i <- j + 5
+  
+  if(i > nrow(temp2))
+    i <- -1
+}
+
+out
+```
+
+```{r}
+out %>% 
+  mutate(
+    county = map_chr(
+      y,
+      ~ headings %>% 
+        filter(y < .x) %>% 
+        pull(text) %>% 
+        last()
+    )
+  ) %>% 
+  select(-y)
+```
+
+Putting it all together...
+
+```{r}
+fc20 <- 
+  pdf_data("../data/facilcesarean20.pdf") %>% 
+  map_dfr(function(df) {
+    headings <- 
+      df %>% 
+      arrange(y, x) %>% 
+      filter(
+        height == 15,
+        y > max(y[text == "Cesarean"])
+      ) %>% 
+      group_by(y) %>% 
+      summarize(text = paste(text, collapse = " "), .groups = "drop")
+    
+    df2 <- 
+      df %>% 
+      select(x, y, space, text) %>% 
+      mutate(y = ifelse((y-1) %in% y, y-1, y)) %>%  # fix off-by-one alignments
+      arrange(y, x) %>% 
+      filter(y > min(headings$y), text != "County", x == 55 | y == lag(y)) %>% 
+      mutate(
+        text = 
+          text %>% 
+          str_replace("–", "0") %>% 
+          str_remove("\\.+$") %>% 
+          str_remove_all("(?<=\\d),(?=\\d)")
+      )
+    
+    out <- tibble(
+      y = integer(0),
+      facility = character(0),
+      total = character(0),
+      vaginal = character(0),
+      vbac = character(0),
+      cesarean = character(0)
+    )
+    
+    i <- 1
+    
+    while(i > 0) {
+      j <- i
+      
+      while(df2$space[j] == TRUE)
+        j <- j + 1
+      
+      out <- 
+        out %>% 
+        add_row(
+          y = df2$y[i],
+          facility = paste(df2$text[i:j], collapse = " "),
+          total = df2$text[j+1],
+          vaginal = df2$text[j+2],
+          vbac = df2$text[j+3],
+          cesarean = df2$text[j+4]
+        )
+      
+      i <- j + 5
+      
+      if(i > nrow(df2))
+        i <- -1
+    }
+    
+    out %>% 
+      mutate(
+        county = map_chr(
+          y,
+          ~ headings %>% 
+            filter(y < .x) %>% 
+            pull(text) %>% 
+            last()
+        )
+      ) %>% 
+      select(-y)
+  }) %>% 
+  drop_na() %>% 
+  mutate(across(c(total, vaginal, vbac, cesarean), as.integer))
+
+fc20
+```
+
+I'm not super confident in using the `space` column the way I did (since I don't totally understand it) and I'm not sure about the way I handle off-by-one y misalignments, but it seems to work for this year at least. We'll see how this approach will need to be tweaked for other years.
+
