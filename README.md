@@ -3,7 +3,7 @@
 
 -----
 
-OHA publishes method of delivery data in PDF format. This project attempts to read these PDFs into R data frames.
+OHA publishes [method of delivery data](https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/VITALSTATISTICS/BIRTH/Pages/index.aspx) in PDF format. This project attempts to read these PDFs into R data frames.
 
 -----
 
