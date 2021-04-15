@@ -15,25 +15,13 @@ Alright, let's try...
 
 ```{r}
 temp <- 
-  pdf_data("../data/facilcesarean20.pdf") %>% 
-  .[[1]] %>% 
+  pdf_data("../data/facilcesarean18.pdf") %>% 
+  .[[6]]
+
+temp %>% 
+  select(-width) %>% 
+  mutate(y = ifelse((y-1) %in% y, y-1, y)) %>%  # fix off-by-one alignments
   arrange(y, x)
-
-temp
-```
-
-```{r}
-headings <- 
-  temp %>% 
-  arrange(y, x) %>% 
-  filter(
-    height == 15,
-    y > max(y[text %in% c("Vaginal", "VBAC", "Cesarean")])
-  ) %>% 
-  group_by(y) %>% 
-  summarize(text = paste(text, collapse = " "), .groups = "drop")
-
-headings
 ```
 
 ```{r}
@@ -44,7 +32,7 @@ temp2 <-
   select(x, y, text) %>% 
   mutate(y = ifelse((y-1) %in% y, y-1, y)) %>%  # fix off-by-one alignments
   arrange(y, x) %>% 
-  filter(y > max(y[text %in% c("Vaginal", "VBAC", "Cesarean")])) %>% 
+  filter(y > min(y[text %in% c("Vaginal", "VBAC", "Cesarean")]) + 5) %>% 
   mutate(
     text = 
       text %>% 
@@ -54,16 +42,32 @@ temp2 <-
     ints = quiet_integer(text)$result,
     line = lag(floor(cumsum(!is.na(ints))/4)) + 1,
     line = ifelse(is.na(line), 1, line)
-  )
+  ) %>% 
+  filter(nchar(text) > 0)
 
 temp2
+```
+
+```{r}
+min_x <- min(temp2$x)
+
+headings <- 
+  temp2 %>% 
+  group_by(line) %>% 
+  filter(length(unique(y)) > 1, y == min(y)) %>% 
+  filter(all(x > min_x)) %>% 
+  ungroup() %>% 
+  group_by(y) %>% 
+  summarize(text = paste(text, collapse = " "), .groups = "drop")
+
+headings
 ```
 
 ```{r}
 temp2 %>% 
   group_by(line) %>% 
   summarize(
-    facility = paste(text[is.na(ints) & y == last(y)], collapse = " "),
+    facility = paste(text[is.na(ints)], collapse = " "),
     total = ints[!is.na(ints)][1],
     vaginal = ints[!is.na(ints)][2],
     vbac = ints[!is.na(ints)][3],
@@ -88,24 +92,14 @@ Putting it all together...
 
 ```{r}
 fmod <- 
-  pdf_data("../data/facilcesarean19.pdf") %>% 
+  pdf_data("../data/facilcesarean18.pdf") %>% 
   map_dfr(function(df) {
-    headings <- 
-      df %>% 
-      arrange(y, x) %>% 
-      filter(
-        height == 15,
-        y > max(y[text %in% c("Vaginal", "VBAC", "Cesarean")])
-      ) %>% 
-      group_by(y) %>% 
-      summarize(text = paste(text, collapse = " "), .groups = "drop")
-    
     df2 <- 
       df %>% 
       select(x, y, text) %>% 
       mutate(y = ifelse((y-1) %in% y, y-1, y)) %>%  # fix off-by-one alignments
       arrange(y, x) %>% 
-      filter(y > max(y[text %in% c("Vaginal", "VBAC", "Cesarean")])) %>% 
+      filter(y > min(y[text %in% c("Vaginal", "VBAC", "Cesarean")]) + 5) %>% 
       mutate(
         text = 
           text %>% 
@@ -116,6 +110,20 @@ fmod <-
         line = lag(floor(cumsum(!is.na(ints))/4)) + 1,
         line = ifelse(is.na(line), 1, line)
       ) %>% 
+      filter(nchar(text) > 0)
+    
+    min_x <- min(df2$x)
+
+    headings <- 
+      df2 %>% 
+      group_by(line) %>% 
+      filter(length(unique(y)) > 1, y == min(y)) %>% 
+      filter(all(x > min_x)) %>% 
+      ungroup() %>% 
+      group_by(y) %>% 
+      summarize(text = paste(text, collapse = " "), .groups = "drop")
+    
+    df2 %>% 
       group_by(line) %>% 
       summarize(
         facility = paste(text[is.na(ints)], collapse = " "),
@@ -145,7 +153,7 @@ fmod
 ```
 
 ```{r eval=FALSE}
-saveRDS(fmod, "../output/fmod_2019.rds")
+saveRDS(fmod, "../output/fmod_2018.rds")
 ```
 
 
