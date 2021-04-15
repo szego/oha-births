@@ -188,5 +188,11 @@ fc20 <-
 fc20
 ```
 
+```{r eval=FALSE}
+saveRDS(fc20, "../output/fmod_2020.rds")
+```
+
 I'm not super confident in using the `space` column the way I did (since I don't totally understand it) and I'm not sure about the way I handle off-by-one y misalignments, but it seems to work for this year at least. We'll see how this approach will need to be tweaked for other years.
+
+After some testing, this code appears to only work for the 2020 data. Indeed, the reason it won't work for 2019 does seem to be the way that I used the `space` column.
 
