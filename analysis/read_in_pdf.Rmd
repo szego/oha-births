@@ -14,6 +14,10 @@ library(pdftools)
 We loop through each PDF, loading them with `pdftools::pdf_data()`. That function returns a list of data frames, each data frame representing a page of the document. We loop through and process each page, combining them into a single data frame for that year. The data frames for each year are then combined into a single data frame.
 
 ```{r}
+# helper function
+# quietly converts things to integers
+quiet_integer <- quietly(as.integer)
+
 all_data <- 
   8:20 %>% 
   map_dfr(function(data_year) {
