@@ -9,6 +9,7 @@ library(tidyr)
 library(purrr)
 library(stringr)
 library(pdftools)
+library(here)
 ```
 
 We loop through each PDF, loading them with `pdftools::pdf_data()`. That function returns a list of data frames, each data frame representing a page of the document. We loop through and process each page, combining them into a single data frame for that year. The data frames for each year are then combined into a single data frame.
@@ -22,7 +23,8 @@ all_data <-
   8:20 %>% 
   map_dfr(function(data_year) {
     str_pad(data_year, width = 2, side = "left", pad = "0") %>% 
-      paste0("../data/facilcesarean", ., ".pdf") %>% 
+      paste0("facilcesarean", ., ".pdf") %>% 
+      here("data", .) %>% 
       pdf_data() %>% 
       map_dfr(function(df) {
         df2 <- 
@@ -86,7 +88,7 @@ all_data
 ```
 
 ```{r eval=FALSE}
-saveRDS(all_data, "../output/oregon_births.rds")
+saveRDS(all_data, here("output", "oregon_births.rds"))
 ```
 
 
