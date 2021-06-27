@@ -9,6 +9,7 @@ library(tidyr)
 library(purrr)
 library(stringr)
 library(pdftools)
+library(tools)  # for toTitleCase
 library(here)
 ```
 
@@ -82,7 +83,12 @@ all_data <-
       drop_na() %>% 
       mutate(year = 2000 + data_year)
   }) %>%
-  mutate(across(c(total, vaginal, vbac, cesarean, year), as.integer))
+  mutate(
+    across(c(total, vaginal, vbac, cesarean, year), as.integer),
+    across(county, toTitleCase),
+    across(facility, toTitleCase),
+    across(facility, str_replace_all, "\\p{Final_Punctuation}", "'")  # for curly quotes
+  )
 
 all_data
 ```

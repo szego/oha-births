@@ -118,7 +118,7 @@
 "117","Alma Midwifery Services",59,57,2,0,"Multnomah County",2008
 "118","Andaluz Waterbirth Center - Portland",3,3,0,0,"Multnomah County",2008
 "119","Natural Childbirth & Family Clinic",24,24,0,0,"Multnomah County",2008
-"120","Clinic/Doctor’s Office",2,2,0,0,"Multnomah County",2008
+"120","Clinic/Doctor's Office",2,2,0,0,"Multnomah County",2008
 "121","Home Birth (Planned)",271,265,6,0,"Multnomah County",2008
 "122","Home Birth (Unplanned)",10,10,0,0,"Multnomah County",2008
 "123","Other",6,6,0,0,"Multnomah County",2008
@@ -285,7 +285,7 @@
 "284","Andaluz Waterbirth Center - Portland",109,108,1,0,"Multnomah County",2009
 "285","Natural Childbirth & Family Clinic",10,8,2,0,"Multnomah County",2009
 "286","Freestanding Birth Center",1,1,0,0,"Multnomah County",2009
-"287","Clinic/Doctor’s Office",1,1,0,0,"Multnomah County",2009
+"287","Clinic/Doctor's Office",1,1,0,0,"Multnomah County",2009
 "288","Home Birth (Planned)",268,260,8,0,"Multnomah County",2009
 "289","Home Birth (Unplanned)",10,10,0,0,"Multnomah County",2009
 "290","Other",8,8,0,0,"Multnomah County",2009
@@ -433,7 +433,7 @@
 "432","Salem Hospital",3307,2277,9,1021,"Marion County",2010
 "433","Santiam Memorial Hospital",107,76,0,31,"Marion County",2010
 "434","Silverton Hospital",1773,1365,52,356,"Marion County",2010
-"435","Clinic/Doctor’s Office",1,1,0,0,"Marion County",2010
+"435","Clinic/Doctor's Office",1,1,0,0,"Marion County",2010
 "436","Home Birth (Planned)",57,54,3,0,"Marion County",2010
 "437","Home Birth (Unplanned)",10,10,0,0,"Marion County",2010
 "438","Other",2,1,1,0,"Marion County",2010
@@ -613,7 +613,7 @@
 "612","Alma Midwifery Services",121,113,8,0,"Multnomah County",2011
 "613","Andaluz Waterbirth Center - Portland",114,111,3,0,"Multnomah County",2011
 "614","Natural Childbirth & Family Clinic",19,18,1,0,"Multnomah County",2011
-"615","Clinic/Doctor’s Office",1,1,0,0,"Multnomah County",2011
+"615","Clinic/Doctor's Office",1,1,0,0,"Multnomah County",2011
 "616","Home Birth (Planned)",298,293,5,0,"Multnomah County",2011
 "617","Home Birth (Unplanned)",17,16,1,0,"Multnomah County",2011
 "618","Other",10,10,0,0,"Multnomah County",2011
@@ -640,7 +640,7 @@
 "639","Providence St Vincent Medical Center",5645,3670,134,1841,"Washington County",2011
 "640","Tuality Community Hospital - Hillsboro",1088,809,25,254,"Washington County",2011
 "641","Andaluz Waterbirth Center - Tualatin",43,41,2,0,"Washington County",2011
-"642","Clinic/Doctor’s Office",1,1,0,0,"Washington County",2011
+"642","Clinic/Doctor's Office",1,1,0,0,"Washington County",2011
 "643","Home Birth (Planned)",85,81,4,0,"Washington County",2011
 "644","Home Birth (Unplanned)",7,7,0,0,"Washington County",2011
 "645","Other",3,3,0,0,"Washington County",2011
@@ -718,7 +718,7 @@
 "717","Other",2,2,0,0,"Jackson County",2012
 "718","Total Births",158,118,0,40,"Jefferson County",2012
 "719","Mountain View Hospital District",155,115,0,40,"Jefferson County",2012
-"720","Clinic/Doctor’s Office",1,1,0,0,"Jefferson County",2012
+"720","Clinic/Doctor's Office",1,1,0,0,"Jefferson County",2012
 "721","Home Birth (Planned)",2,2,0,0,"Jefferson County",2012
 "722","Total Births",771,594,5,172,"Josephine County",2012
 "723","Three Rivers Community Hospital",738,564,2,172,"Josephine County",2012
@@ -816,127 +816,127 @@
 "815","Bella Vie Gentle Birth Center",58,55,3,0,"Yamhill County",2012
 "816","Home Birth (Planned)",25,25,0,0,"Yamhill County",2012
 "817","Home Birth (Unknown if Planned)",1,1,0,0,"Yamhill County",2012
-"818","Total births",45591,31752,1068,12771,"State total",2013
-"819","Total births",153,118,1,34,"Baker County",2013
+"818","Total Births",45591,31752,1068,12771,"State Total",2013
+"819","Total Births",153,118,1,34,"Baker County",2013
 "820","Saint Alphonsus Medical Center - Baker City",146,112,0,34,"Baker County",2013
-"821","Home birth (planned)",7,6,1,0,"Baker County",2013
-"822","Total births",1017,768,28,221,"Benton County",2013
+"821","Home Birth (Planned)",7,6,1,0,"Baker County",2013
+"822","Total Births",1017,768,28,221,"Benton County",2013
 "823","Good Samaritan Regional Medical Center",987,738,28,221,"Benton County",2013
-"824","Home birth (planned)",30,30,0,0,"Benton County",2013
-"825","Total births",4532,3285,100,1147,"Clackamas County",2013
+"824","Home Birth (Planned)",30,30,0,0,"Benton County",2013
+"825","Total Births",4532,3285,100,1147,"Clackamas County",2013
 "826","Kaiser Sunnyside Medical Center",2119,1593,57,469,"Clackamas County",2013
 "827","Legacy Meridian Park Hospital",1027,662,19,346,"Clackamas County",2013
 "828","Providence Milwaukie Hospital",136,94,0,42,"Clackamas County",2013
 "829","Providence Willamette Falls Medical Center",1146,835,21,290,"Clackamas County",2013
-"830","Home birth (planned)",97,95,2,0,"Clackamas County",2013
-"831","Home birth (unplanned)",4,4,0,0,"Clackamas County",2013
-"832","Home birth (unknown if planned)",1,1,0,0,"Clackamas County",2013
+"830","Home Birth (Planned)",97,95,2,0,"Clackamas County",2013
+"831","Home Birth (Unplanned)",4,4,0,0,"Clackamas County",2013
+"832","Home Birth (Unknown if Planned)",1,1,0,0,"Clackamas County",2013
 "833","Other",2,1,1,0,"Clackamas County",2013
-"834","Total births",420,309,0,111,"Clatsop County",2013
+"834","Total Births",420,309,0,111,"Clatsop County",2013
 "835","Columbia Memorial Hospital",322,233,0,89,"Clatsop County",2013
 "836","Providence Seaside Hospital",94,72,0,22,"Clatsop County",2013
-"837","Home birth (planned)",4,4,0,0,"Clatsop County",2013
-"838","Total births",10,10,0,0,"Columbia County",2013
-"839","Home birth (planned)",10,10,0,0,"Columbia County",2013
-"840","Total births",678,484,5,189,"Coos County",2013
+"837","Home Birth (Planned)",4,4,0,0,"Clatsop County",2013
+"838","Total Births",10,10,0,0,"Columbia County",2013
+"839","Home Birth (Planned)",10,10,0,0,"Columbia County",2013
+"840","Total Births",678,484,5,189,"Coos County",2013
 "841","Bay Area Hospital",662,469,5,188,"Coos County",2013
 "842","Coquille Valley Hospital",8,7,0,1,"Coos County",2013
-"843","Home birth (planned)",6,6,0,0,"Coos County",2013
-"844","Home birth (unplanned)",2,2,0,0,"Coos County",2013
-"845","Total births",1,1,0,0,"Crook County",2013
-"846","Home birth (planned)",1,1,0,0,"Crook County",2013
-"847","Total births",35,29,0,6,"Curry County",2013
+"843","Home Birth (Planned)",6,6,0,0,"Coos County",2013
+"844","Home Birth (Unplanned)",2,2,0,0,"Coos County",2013
+"845","Total Births",1,1,0,0,"Crook County",2013
+"846","Home Birth (Planned)",1,1,0,0,"Crook County",2013
+"847","Total Births",35,29,0,6,"Curry County",2013
 "848","Curry General Hospital",29,23,0,6,"Curry County",2013
-"849","Home birth (planned)",4,4,0,0,"Curry County",2013
-"850","Home birth (unplanned)",2,2,0,0,"Curry County",2013
-"851","Total births",2116,1504,32,580,"Deschutes County",2013
+"849","Home Birth (Planned)",4,4,0,0,"Curry County",2013
+"850","Home Birth (Unplanned)",2,2,0,0,"Curry County",2013
+"851","Total Births",2116,1504,32,580,"Deschutes County",2013
 "852","St Charles Medical Center - Bend",1675,1151,30,494,"Deschutes County",2013
 "853","St Charles Medical Center - Redmond",370,283,1,86,"Deschutes County",2013
 "854","Bend Birth Center",28,28,0,0,"Deschutes County",2013
 "855","Motherwise Community Birth Center",11,11,0,0,"Deschutes County",2013
-"856","Home birth (planned)",29,28,1,0,"Deschutes County",2013
-"857","Home birth (unplanned)",3,3,0,0,"Deschutes County",2013
-"858","Total births",908,685,15,208,"Douglas County",2013
+"856","Home Birth (Planned)",29,28,1,0,"Deschutes County",2013
+"857","Home Birth (Unplanned)",3,3,0,0,"Deschutes County",2013
+"858","Total Births",908,685,15,208,"Douglas County",2013
 "859","Mercy Medical Center",893,671,14,208,"Douglas County",2013
-"860","Home birth (planned)",12,11,1,0,"Douglas County",2013
-"861","Home birth (unplanned)",2,2,0,0,"Douglas County",2013
+"860","Home Birth (Planned)",12,11,1,0,"Douglas County",2013
+"861","Home Birth (Unplanned)",2,2,0,0,"Douglas County",2013
 "862","Other",1,1,0,0,"Douglas County",2013
-"863","Total births",52,38,1,13,"Grant County",2013
+"863","Total Births",52,38,1,13,"Grant County",2013
 "864","Blue Mountain Hospital District",43,30,0,13,"Grant County",2013
-"865","Home birth (planned)",4,4,0,0,"Grant County",2013
+"865","Home Birth (Planned)",4,4,0,0,"Grant County",2013
 "866","Other",5,4,1,0,"Grant County",2013
-"867","Total births",67,42,0,25,"Harney County",2013
+"867","Total Births",67,42,0,25,"Harney County",2013
 "868","Harney District Hospital",66,41,0,25,"Harney County",2013
-"869","Home birth (unplanned)",1,1,0,0,"Harney County",2013
-"870","Total births",467,352,6,109,"Hood River County",2013
+"869","Home Birth (Unplanned)",1,1,0,0,"Harney County",2013
+"870","Total Births",467,352,6,109,"Hood River County",2013
 "871","Providence Hood River Memorial Hospital",460,345,6,109,"Hood River County",2013
-"872","Home birth (planned)",5,5,0,0,"Hood River County",2013
-"873","Home birth (unplanned)",1,1,0,0,"Hood River County",2013
+"872","Home Birth (Planned)",5,5,0,0,"Hood River County",2013
+"873","Home Birth (Unplanned)",1,1,0,0,"Hood River County",2013
 "874","Other",1,1,0,0,"Hood River County",2013
-"875","Total births",2486,1663,29,794,"Jackson County",2013
+"875","Total Births",2486,1663,29,794,"Jackson County",2013
 "876","Asante Ashland Community Hospital",309,212,15,82,"Jackson County",2013
 "877","Providence Medford Medical Center",517,356,3,158,"Jackson County",2013
 "878","Rogue Valley Medical Center",1545,982,9,554,"Jackson County",2013
 "879","Trillium Birth Center - Medford",51,50,1,0,"Jackson County",2013
 "880","Kalista Birth Sanctuary",1,1,0,0,"Jackson County",2013
-"881","Home birth (planned)",57,56,1,0,"Jackson County",2013
-"882","Home birth (unplanned)",3,3,0,0,"Jackson County",2013
-"883","Home birth (unknown if planned)",1,1,0,0,"Jackson County",2013
+"881","Home Birth (Planned)",57,56,1,0,"Jackson County",2013
+"882","Home Birth (Unplanned)",3,3,0,0,"Jackson County",2013
+"883","Home Birth (Unknown if Planned)",1,1,0,0,"Jackson County",2013
 "884","Other",2,2,0,0,"Jackson County",2013
-"885","Total births",182,114,0,68,"Jefferson County",2013
+"885","Total Births",182,114,0,68,"Jefferson County",2013
 "886","St Charles - Madras",180,112,0,68,"Jefferson County",2013
-"887","Home birth (planned)",2,2,0,0,"Jefferson County",2013
-"888","Total births",806,649,4,153,"Josephine County",2013
+"887","Home Birth (Planned)",2,2,0,0,"Jefferson County",2013
+"888","Total Births",806,649,4,153,"Josephine County",2013
 "889","Three Rivers Community Hospital",752,597,2,153,"Josephine County",2013
 "890","Trillium Birth Center - Redwood",18,18,0,0,"Josephine County",2013
-"891","Home birth (planned)",33,31,2,0,"Josephine County",2013
+"891","Home Birth (Planned)",33,31,2,0,"Josephine County",2013
 "892","Other",3,3,0,0,"Josephine County",2013
-"893","Total births",787,588,2,197,"Klamath County",2013
+"893","Total Births",787,588,2,197,"Klamath County",2013
 "894","Sky Lakes Medical Center",786,587,2,197,"Klamath County",2013
-"895","Home birth (planned)",1,1,0,0,"Klamath County",2013
-"896","Total births",70,46,0,24,"Lake County",2013
+"895","Home Birth (Planned)",1,1,0,0,"Klamath County",2013
+"896","Total Births",70,46,0,24,"Lake County",2013
 "897","Lake District Hospital",68,44,0,24,"Lake County",2013
 "898","Other",2,2,0,0,"Lake County",2013
-"899","Total births",3822,2505,63,1254,"Lane County",2013
+"899","Total Births",3822,2505,63,1254,"Lane County",2013
 "900","McKenzie-Willamette Medical Center",642,420,1,221,"Lane County",2013
 "901","Peace Harbor MC",72,59,0,13,"Lane County",2013
 "902","Sacred Heart Medical Center",1,0,0,1,"Lane County",2013
 "903","Sacred Heart - River Bend",2867,1791,57,1019,"Lane County",2013
 "904","PeaceHealth Nurse Midwifery Birth Center",137,137,0,0,"Lane County",2013
 "905","Sacred Waters Birthing Center",16,15,1,0,"Lane County",2013
-"906","Home birth (planned)",77,74,3,0,"Lane County",2013
-"907","Home birth (unplanned)",3,3,0,0,"Lane County",2013
-"908","Home birth (unknown if planned)",2,1,1,0,"Lane County",2013
+"906","Home Birth (Planned)",77,74,3,0,"Lane County",2013
+"907","Home Birth (Unplanned)",3,3,0,0,"Lane County",2013
+"908","Home Birth (Unknown if Planned)",2,1,1,0,"Lane County",2013
 "909","Other",5,5,0,0,"Lane County",2013
-"910","Total births",340,245,2,93,"Lincoln County",2013
+"910","Total Births",340,245,2,93,"Lincoln County",2013
 "911","Samaritan North Lincoln Hospital",139,111,0,28,"Lincoln County",2013
 "912","Samaritan Pacific Communities Hospital",184,118,1,65,"Lincoln County",2013
 "913","Home Sweet Home Birth Center",6,6,0,0,"Lincoln County",2013
-"914","Home birth (planned)",10,9,1,0,"Lincoln County",2013
+"914","Home Birth (Planned)",10,9,1,0,"Lincoln County",2013
 "915","Other",1,1,0,0,"Lincoln County",2013
-"916","Total births",926,676,6,244,"Linn County",2013
+"916","Total Births",926,676,6,244,"Linn County",2013
 "917","Samaritan Albany General Hospital",576,385,3,188,"Linn County",2013
 "918","Samaritan Lebanon Community Hospital",299,242,1,56,"Linn County",2013
 "919","Growing Family Birth Center LLC",13,13,0,0,"Linn County",2013
-"920","Home birth (planned)",36,34,2,0,"Linn County",2013
-"921","Home birth (unplanned)",1,1,0,0,"Linn County",2013
+"920","Home Birth (Planned)",36,34,2,0,"Linn County",2013
+"921","Home Birth (Unplanned)",1,1,0,0,"Linn County",2013
 "922","Other",1,1,0,0,"Linn County",2013
-"923","Total births",614,411,1,202,"Malheur County",2013
+"923","Total Births",614,411,1,202,"Malheur County",2013
 "924","Saint Alphonsus Medical Center - Ontario",611,409,0,202,"Malheur County",2013
-"925","Home birth (planned)",3,2,1,0,"Malheur County",2013
-"926","Total births",4820,3439,105,1276,"Marion County",2013
+"925","Home Birth (Planned)",3,2,1,0,"Malheur County",2013
+"926","Total Births",4820,3439,105,1276,"Marion County",2013
 "927","Salem Hospital",3008,2058,54,896,"Marion County",2013
 "928","Santiam Memorial Hospital",114,85,0,29,"Marion County",2013
 "929","Silverton Hospital",1622,1222,49,351,"Marion County",2013
 "930","Aurora Family Health & Maternity Care Services",5,5,0,0,"Marion County",2013
-"931","Freestanding birth center",2,2,0,0,"Marion County",2013
-"932","Home birth (planned)",62,60,2,0,"Marion County",2013
-"933","Home birth (unplanned)",6,6,0,0,"Marion County",2013
+"931","Freestanding Birth Center",2,2,0,0,"Marion County",2013
+"932","Home Birth (Planned)",62,60,2,0,"Marion County",2013
+"933","Home Birth (Unplanned)",6,6,0,0,"Marion County",2013
 "934","Other",1,1,0,0,"Marion County",2013
-"935","Total births",2,2,0,0,"Morrow County",2013
+"935","Total Births",2,2,0,0,"Morrow County",2013
 "936","Pioneer Memorial Hospital (Heppner)",1,1,0,0,"Morrow County",2013
-"937","Home birth (planned)",1,1,0,0,"Morrow County",2013
-"938","Total births",10730,7232,431,3067,"Multnomah County",2013
+"937","Home Birth (Planned)",1,1,0,0,"Morrow County",2013
+"938","Total Births",10730,7232,431,3067,"Multnomah County",2013
 "939","Adventist Medical Center",1079,742,11,326,"Multnomah County",2013
 "940","Legacy Emanuel Hospital & Health Center",2067,1220,96,751,"Multnomah County",2013
 "941","Legacy Good Samaritan Hospital & Medical Ctr",1023,722,6,295,"Multnomah County",2013
@@ -946,106 +946,106 @@
 "945","Alma Midwifery Services",107,105,2,0,"Multnomah County",2013
 "946","Andaluz Waterbirth Center - Portland",89,85,4,0,"Multnomah County",2013
 "947","Canyon Medical Center",22,22,0,0,"Multnomah County",2013
-"948","Home birth (planned)",315,309,6,0,"Multnomah County",2013
-"949","Home birth (unplanned)",7,7,0,0,"Multnomah County",2013
+"948","Home Birth (Planned)",315,309,6,0,"Multnomah County",2013
+"949","Home Birth (Unplanned)",7,7,0,0,"Multnomah County",2013
 "950","Other",9,8,1,0,"Multnomah County",2013
-"951","Total births",17,15,2,0,"Polk County",2013
-"952","Home birth (planned)",15,13,2,0,"Polk County",2013
+"951","Total Births",17,15,2,0,"Polk County",2013
+"952","Home Birth (Planned)",15,13,2,0,"Polk County",2013
 "953","Other",2,2,0,0,"Polk County",2013
-"954","Total births",1,1,0,0,"Sherman County",2013
-"955","Home birth (planned)",1,1,0,0,"Sherman County",2013
-"956","Total births",177,117,0,60,"Tillamook County",2013
+"954","Total Births",1,1,0,0,"Sherman County",2013
+"955","Home Birth (Planned)",1,1,0,0,"Sherman County",2013
+"956","Total Births",177,117,0,60,"Tillamook County",2013
 "957","General Hospital",168,108,0,60,"Tillamook County",2013
-"958","Home birth (planned)",9,9,0,0,"Tillamook County",2013
-"959","Total births",843,623,6,214,"Umatilla County",2013
+"958","Home Birth (Planned)",9,9,0,0,"Tillamook County",2013
+"959","Total Births",843,623,6,214,"Umatilla County",2013
 "960","Good Shepherd Medical Center",489,347,4,138,"Umatilla County",2013
 "961","St Anthony Hospital",343,267,0,76,"Umatilla County",2013
-"962","Home birth (planned)",8,6,2,0,"Umatilla County",2013
-"963","Home birth (unplanned)",2,2,0,0,"Umatilla County",2013
+"962","Home Birth (Planned)",8,6,2,0,"Umatilla County",2013
+"963","Home Birth (Unplanned)",2,2,0,0,"Umatilla County",2013
 "964","Other",1,1,0,0,"Umatilla County",2013
-"965","Total births",290,193,1,96,"Union County",2013
+"965","Total Births",290,193,1,96,"Union County",2013
 "966","Grande Ronde Hospital",269,173,0,96,"Union County",2013
-"967","Home birth (planned)",21,20,1,0,"Union County",2013
-"968","Total births",62,36,0,26,"Wallowa County",2013
+"967","Home Birth (Planned)",21,20,1,0,"Union County",2013
+"968","Total Births",62,36,0,26,"Wallowa County",2013
 "969","Wallowa Memorial Hospital",60,34,0,26,"Wallowa County",2013
-"970","Home birth (planned)",2,2,0,0,"Wallowa County",2013
-"971","Total births",280,182,0,98,"Wasco County",2013
+"970","Home Birth (Planned)",2,2,0,0,"Wallowa County",2013
+"971","Total Births",280,182,0,98,"Wasco County",2013
 "972","Mid-Columbia Medical Center",277,179,0,98,"Wasco County",2013
-"973","Home birth (planned)",3,3,0,0,"Wasco County",2013
-"974","Total births",6746,4546,217,1983,"Washington County",2013
+"973","Home Birth (Planned)",3,3,0,0,"Wasco County",2013
+"974","Total Births",6746,4546,217,1983,"Washington County",2013
 "975","Kaiser Foundation - Westside",514,355,14,145,"Washington County",2013
 "976","Providence St Vincent Medical Center",5221,3444,169,1608,"Washington County",2013
 "977","Tuality Community Hospital - Hillsboro",868,613,25,230,"Washington County",2013
 "978","Andaluz Waterbirth Center - Tualatin",44,40,4,0,"Washington County",2013
-"979","Home birth (planned)",86,81,5,0,"Washington County",2013
-"980","Home birth (unplanned)",11,11,0,0,"Washington County",2013
+"979","Home Birth (Planned)",86,81,5,0,"Washington County",2013
+"980","Home Birth (Unplanned)",11,11,0,0,"Washington County",2013
 "981","Other",2,2,0,0,"Washington County",2013
-"982","Total births",1,1,0,0,"Wheeler County",2013
-"983","Home birth (planned)",1,1,0,0,"Wheeler County",2013
-"984","Total births",1132,842,11,279,"Yamhill County",2013
+"982","Total Births",1,1,0,0,"Wheeler County",2013
+"983","Home Birth (Planned)",1,1,0,0,"Wheeler County",2013
+"984","Total Births",1132,842,11,279,"Yamhill County",2013
 "985","Providence Newberg Medical Center",526,402,2,122,"Yamhill County",2013
 "986","Willamette Valley Medical Center",496,333,6,157,"Yamhill County",2013
 "987","PeaceHealth Cottage Grove Hospital & Clinics",1,1,0,0,"Yamhill County",2013
 "988","Bella Vie Gentle Birth Center",87,85,2,0,"Yamhill County",2013
-"989","Home birth (planned)",22,21,1,0,"Yamhill County",2013
-"990","Total births",46100,32349,1109,12640,"State total",2014
-"991","Total births",139,101,5,33,"Baker County",2014
+"989","Home Birth (Planned)",22,21,1,0,"Yamhill County",2013
+"990","Total Births",46100,32349,1109,12640,"State Total",2014
+"991","Total Births",139,101,5,33,"Baker County",2014
 "992","Saint Alphonsus Medical Center - Baker City",122,85,4,33,"Baker County",2014
 "993","Home Birth (Planned)",15,14,1,0,"Baker County",2014
 "994","Home Birth (Unplanned)",2,2,0,0,"Baker County",2014
-"995","Total births",1069,822,49,198,"Benton County",2014
+"995","Total Births",1069,822,49,198,"Benton County",2014
 "996","Good Samaritan Regional Medical Center",1032,790,44,198,"Benton County",2014
 "997","Home Birth (Planned)",34,29,5,0,"Benton County",2014
 "998","Home Birth (Unplanned)",1,1,0,0,"Benton County",2014
 "999","Other",2,2,0,0,"Benton County",2014
-"1000","Total births",4510,3246,135,1129,"Clackamas County",2014
+"1000","Total Births",4510,3246,135,1129,"Clackamas County",2014
 "1001","Kaiser Sunnyside Medical Center",2068,1524,60,484,"Clackamas County",2014
 "1002","Legacy Meridian Park Medical Center",1148,762,30,356,"Clackamas County",2014
 "1003","Providence Milwaukie Hospital",1,1,0,0,"Clackamas County",2014
 "1004","Providence Willamette Falls Medical Center",1173,846,38,289,"Clackamas County",2014
 "1005","Home Birth (Planned)",113,106,7,0,"Clackamas County",2014
 "1006","Home Birth (Unplanned)",7,7,0,0,"Clackamas County",2014
-"1007","Total births",431,296,2,133,"Clatsop County",2014
+"1007","Total Births",431,296,2,133,"Clatsop County",2014
 "1008","Columbia Memorial Hospital",311,211,0,100,"Clatsop County",2014
 "1009","Providence Seaside Hospital",109,76,0,33,"Clatsop County",2014
 "1010","Home Birth (Planned)",10,8,2,0,"Clatsop County",2014
 "1011","Other",1,1,0,0,"Clatsop County",2014
-"1012","Total births",18,18,0,0,"Columbia County",2014
+"1012","Total Births",18,18,0,0,"Columbia County",2014
 "1013","Home Birth (Planned)",15,15,0,0,"Columbia County",2014
 "1014","Home Birth (Unplanned)",3,3,0,0,"Columbia County",2014
-"1015","Total births",691,490,8,193,"Coos County",2014
+"1015","Total Births",691,490,8,193,"Coos County",2014
 "1016","Bay Area Hospital",686,485,8,193,"Coos County",2014
 "1017","Home Birth (Planned)",5,5,0,0,"Coos County",2014
-"1018","Total births",5,5,0,0,"Crook County",2014
+"1018","Total Births",5,5,0,0,"Crook County",2014
 "1019","Home Birth (Planned)",4,4,0,0,"Crook County",2014
 "1020","Home Birth (Unplanned)",1,1,0,0,"Crook County",2014
-"1021","Total births",32,27,0,5,"Curry County",2014
+"1021","Total Births",32,27,0,5,"Curry County",2014
 "1022","Curry General Hospital",19,14,0,5,"Curry County",2014
 "1023","Home Birth (Planned)",5,5,0,0,"Curry County",2014
 "1024","Other",8,8,0,0,"Curry County",2014
-"1025","Total births",2189,1595,37,557,"Deschutes County",2014
+"1025","Total Births",2189,1595,37,557,"Deschutes County",2014
 "1026","St Charles Medical Center - Bend",1718,1212,36,470,"Deschutes County",2014
 "1027","St Charles Medical Center - Redmond",415,328,0,87,"Deschutes County",2014
 "1028","Bend Birth Center",6,6,0,0,"Deschutes County",2014
 "1029","Home Birth (Planned)",49,48,1,0,"Deschutes County",2014
 "1030","Home Birth (Unplanned)",1,1,0,0,"Deschutes County",2014
-"1031","Total births",941,699,15,227,"Douglas County",2014
+"1031","Total Births",941,699,15,227,"Douglas County",2014
 "1032","Mercy Medical Center",916,675,14,227,"Douglas County",2014
 "1033","Home Birth (Planned)",21,20,1,0,"Douglas County",2014
 "1034","Home Birth (Unplanned)",2,2,0,0,"Douglas County",2014
 "1035","Home Birth (Unknown if Planned)",1,1,0,0,"Douglas County",2014
 "1036","Other",1,1,0,0,"Douglas County",2014
-"1037","Total births",64,47,0,17,"Grant County",2014
+"1037","Total Births",64,47,0,17,"Grant County",2014
 "1038","Blue Mountain Hospital",48,31,0,17,"Grant County",2014
 "1039","Home Birth (Planned)",15,15,0,0,"Grant County",2014
 "1040","Other",1,1,0,0,"Grant County",2014
-"1041","Total births",58,46,0,12,"Harney County",2014
+"1041","Total Births",58,46,0,12,"Harney County",2014
 "1042","Harney District Hospital",58,46,0,12,"Harney County",2014
-"1043","Total births",470,364,4,102,"Hood River County",2014
+"1043","Total Births",470,364,4,102,"Hood River County",2014
 "1044","Providence Hood River Memorial Hospital",464,358,4,102,"Hood River County",2014
 "1045","Home Birth (Planned)",4,4,0,0,"Hood River County",2014
 "1046","Other",2,2,0,0,"Hood River County",2014
-"1047","Total births",2513,1709,31,773,"Jackson County",2014
+"1047","Total Births",2513,1709,31,773,"Jackson County",2014
 "1048","Asante Ashland Community Hospital",281,196,9,76,"Jackson County",2014
 "1049","Providence Medford Medical Center",520,378,3,139,"Jackson County",2014
 "1050","Rogue Valley Medical Center",1581,1009,14,558,"Jackson County",2014
@@ -1054,23 +1054,23 @@
 "1053","Home Birth (Planned)",65,63,2,0,"Jackson County",2014
 "1054","Home Birth (Unplanned)",6,5,1,0,"Jackson County",2014
 "1055","Other",2,2,0,0,"Jackson County",2014
-"1056","Total births",180,133,1,46,"Jefferson County",2014
+"1056","Total Births",180,133,1,46,"Jefferson County",2014
 "1057","St Charles - Madras",175,129,0,46,"Jefferson County",2014
 "1058","Home Birth (Planned)",5,4,1,0,"Jefferson County",2014
-"1059","Total births",809,644,8,157,"Josephine County",2014
+"1059","Total Births",809,644,8,157,"Josephine County",2014
 "1060","Three Rivers Community Hospital",775,612,6,157,"Josephine County",2014
 "1061","Trillium Birth Center - Redwood Clinic",15,14,1,0,"Josephine County",2014
 "1062","Home Birth (Planned)",17,16,1,0,"Josephine County",2014
 "1063","Home Birth (Unplanned)",2,2,0,0,"Josephine County",2014
-"1064","Total births",822,604,2,216,"Klamath County",2014
+"1064","Total Births",822,604,2,216,"Klamath County",2014
 "1065","Sky Lakes Medical Center",807,589,2,216,"Klamath County",2014
 "1066","Klamath Birth Center",2,2,0,0,"Klamath County",2014
 "1067","Klamath Womens Clinic & Birth Center",4,4,0,0,"Klamath County",2014
 "1068","Home Birth (Planned)",7,7,0,0,"Klamath County",2014
 "1069","Other",2,2,0,0,"Klamath County",2014
-"1070","Total births",62,51,0,11,"Lake County",2014
+"1070","Total Births",62,51,0,11,"Lake County",2014
 "1071","Lake District Hospital",62,51,0,11,"Lake County",2014
-"1072","Total births",3943,2618,81,1244,"Lane County",2014
+"1072","Total Births",3943,2618,81,1244,"Lane County",2014
 "1073","McKenzie-Willamette Medical Center",675,477,5,193,"Lane County",2014
 "1074","Peace Harbor Medical Center",74,61,0,13,"Lane County",2014
 "1075","Sacred Heart Medical Center - RiverBend",2925,1817,70,1038,"Lane County",2014
@@ -1080,24 +1080,24 @@
 "1079","Home Birth (Unplanned)",5,4,1,0,"Lane County",2014
 "1080","Home Birth (Unknown if Planned)",1,1,0,0,"Lane County",2014
 "1081","Other",4,4,0,0,"Lane County",2014
-"1082","Total births",367,270,1,96,"Lincoln County",2014
+"1082","Total Births",367,270,1,96,"Lincoln County",2014
 "1083","Samaritan North Lincoln Hospital",152,110,0,42,"Lincoln County",2014
 "1084","Samaritan Pacific Communities Hospital",193,139,0,54,"Lincoln County",2014
 "1085","Home Sweet Home Birth",12,12,0,0,"Lincoln County",2014
 "1086","Home Birth (Planned)",9,8,1,0,"Lincoln County",2014
 "1087","Other",1,1,0,0,"Lincoln County",2014
-"1088","Total births",958,706,11,241,"Linn County",2014
+"1088","Total Births",958,706,11,241,"Linn County",2014
 "1089","Samaritan Albany General Hospital",567,390,2,175,"Linn County",2014
 "1090","Samaritan Lebanon Community Hospital",304,233,5,66,"Linn County",2014
 "1091","Growing Family Birth Center LLC",33,33,0,0,"Linn County",2014
-"1092","Clinic/Doctor’s Office",2,1,1,0,"Linn County",2014
+"1092","Clinic/Doctor's Office",2,1,1,0,"Linn County",2014
 "1093","Home Birth (Planned)",46,43,3,0,"Linn County",2014
 "1094","Home Birth (Unplanned)",3,3,0,0,"Linn County",2014
 "1095","Other",3,3,0,0,"Linn County",2014
-"1096","Total births",506,348,2,156,"Malheur County",2014
+"1096","Total Births",506,348,2,156,"Malheur County",2014
 "1097","Saint Alphonsus Medical Center - Ontario",504,347,1,156,"Malheur County",2014
 "1098","Home Birth (Planned)",2,1,1,0,"Malheur County",2014
-"1099","Total births",5057,3687,108,1262,"Marion County",2014
+"1099","Total Births",5057,3687,108,1262,"Marion County",2014
 "1100","Salem Hospital",3232,2257,57,918,"Marion County",2014
 "1101","Santiam Memorial Hospital",100,67,0,33,"Marion County",2014
 "1102","Silverton Hospital",1608,1253,44,311,"Marion County",2014
@@ -1105,7 +1105,7 @@
 "1104","Home Birth (Planned)",74,69,5,0,"Marion County",2014
 "1105","Home Birth (Unplanned)",10,9,1,0,"Marion County",2014
 "1106","Other",2,2,0,0,"Marion County",2014
-"1107","Total births",10938,7328,381,3228,"Multnomah County",2014
+"1107","Total Births",10938,7328,381,3228,"Multnomah County",2014
 "1108","Adventist Medical Center",1172,823,16,333,"Multnomah County",2014
 "1109","Legacy Emanuel Medical Center",2155,1230,70,855,"Multnomah County",2014
 "1110","Legacy Good Samaritan Medical Center",1106,734,10,362,"Multnomah County",2014
@@ -1119,33 +1119,33 @@
 "1118","Home Birth (Unplanned)",16,15,1,0,"Multnomah County",2014
 "1119","Home Birth (Unknown if Planned)",1,0,0,0,"Multnomah County",2014
 "1120","Other",8,6,2,0,"Multnomah County",2014
-"1121","Total births",40,38,2,0,"Polk County",2014
+"1121","Total Births",40,38,2,0,"Polk County",2014
 "1122","Bella Vie Gentle Birth Center",28,27,1,0,"Polk County",2014
 "1123","Home Birth (Planned)",11,10,1,0,"Polk County",2014
 "1124","Other",1,1,0,0,"Polk County",2014
-"1125","Total births",1,1,0,0,"Sherman County",2014
+"1125","Total Births",1,1,0,0,"Sherman County",2014
 "1126","Home Birth (Planned)",1,1,0,0,"Sherman County",2014
-"1127","Total births",191,120,1,70,"Tillamook County",2014
+"1127","Total Births",191,120,1,70,"Tillamook County",2014
 "1128","Tillamook Regional Medical Center",185,114,1,70,"Tillamook County",2014
 "1129","Home Birth (Planned)",6,6,0,0,"Tillamook County",2014
-"1130","Total births",807,582,2,222,"Umatilla County",2014
+"1130","Total Births",807,582,2,222,"Umatilla County",2014
 "1131","Good Shepherd Medical Center",450,322,2,126,"Umatilla County",2014
 "1132","St Anthony Hospital",335,239,0,96,"Umatilla County",2014
 "1133","Home Birth (Planned)",18,18,0,0,"Umatilla County",2014
 "1134","Home Birth (Unplanned)",2,2,0,0,"Umatilla County",2014
 "1135","Home Birth (Unknown if Planned)",1,0,0,0,"Umatilla County",2014
 "1136","Other",1,1,0,0,"Umatilla County",2014
-"1137","Total births",259,165,4,90,"Union County",2014
+"1137","Total Births",259,165,4,90,"Union County",2014
 "1138","Grande Ronde Hospital",240,148,2,90,"Union County",2014
 "1139","Home Birth (Planned)",19,17,2,0,"Union County",2014
-"1140","Total births",52,36,1,15,"Wallowa County",2014
+"1140","Total Births",52,36,1,15,"Wallowa County",2014
 "1141","Wallowa Memorial Hospital",49,34,0,15,"Wallowa County",2014
 "1142","Home Birth (Planned)",1,0,1,0,"Wallowa County",2014
 "1143","Home Birth (Unplanned)",2,2,0,0,"Wallowa County",2014
-"1144","Total births",291,196,2,93,"Wasco County",2014
+"1144","Total Births",291,196,2,93,"Wasco County",2014
 "1145","Mid-Columbia Medical Center",285,192,0,93,"Wasco County",2014
 "1146","Home Birth (Planned)",6,4,2,0,"Wasco County",2014
-"1147","Total births",6522,4490,205,1827,"Washington County",2014
+"1147","Total Births",6522,4490,205,1827,"Washington County",2014
 "1148","Providence St Vincent Medical Center",4233,2748,149,1336,"Washington County",2014
 "1149","Tuality Community Hospital - Hillsboro",760,570,15,175,"Washington County",2014
 "1150","Kaiser Foundation Hospital - Westside",1349,996,37,316,"Washington County",2014
@@ -1156,7 +1156,7 @@
 "1155","Home Birth (Unplanned)",8,8,0,0,"Washington County",2014
 "1156","Home Birth (Unknown if Planned)",1,1,0,0,"Washington County",2014
 "1157","Other",6,6,0,0,"Washington County",2014
-"1158","Total births",1165,867,11,287,"Yamhill County",2014
+"1158","Total Births",1165,867,11,287,"Yamhill County",2014
 "1159","Providence Newberg Medical Center",582,437,3,142,"Yamhill County",2014
 "1160","Willamette Valley Medical Center",515,366,4,145,"Yamhill County",2014
 "1161","PeaceHealth Cottage Grove Community Medical Center",1,1,0,0,"Yamhill County",2014
@@ -1164,15 +1164,15 @@
 "1163","Freestanding Birth Center",5,5,0,0,"Yamhill County",2014
 "1164","Home Birth (Planned)",14,12,2,0,"Yamhill County",2014
 "1165","Home Birth (Unplanned)",2,2,0,0,"Yamhill County",2014
-"1166","Total births",46102,32580,1012,12509,"State total",2015
-"1167","Total births",107,84,1,22,"Baker County",2015
+"1166","Total Births",46102,32580,1012,12509,"State Total",2015
+"1167","Total Births",107,84,1,22,"Baker County",2015
 "1168","St Alphonsus Medical Center - Baker City",103,80,1,22,"Baker County",2015
 "1169","Home Birth (Planned)",4,4,0,0,"Baker County",2015
-"1170","Total births",1108,875,34,199,"Benton County",2015
+"1170","Total Births",1108,875,34,199,"Benton County",2015
 "1171","Good Samaritan Regional Medical Center",1072,840,33,199,"Benton County",2015
 "1172","Home Birth (Planned)",35,34,1,0,"Benton County",2015
 "1173","Home Birth (Unplanned)",1,1,0,0,"Benton County",2015
-"1174","Total births",4582,3389,109,1084,"Clackamas County",2015
+"1174","Total Births",4582,3389,109,1084,"Clackamas County",2015
 "1175","Kaiser Sunnyside Medical Center",2328,1761,55,512,"Clackamas County",2015
 "1176","Legacy Meridian Park Hospital",1111,751,21,339,"Clackamas County",2015
 "1177","Providence Milwaukie Hospital",1,1,0,0,"Clackamas County",2015
@@ -1181,25 +1181,25 @@
 "1180","Home Birth (Unplanned)",6,6,0,0,"Clackamas County",2015
 "1181","Home Birth (Unknown if Planned)",2,2,0,0,"Clackamas County",2015
 "1182","Other",1,1,0,0,"Clackamas County",2015
-"1183","Total births",446,312,0,134,"Clatsop County",2015
+"1183","Total Births",446,312,0,134,"Clatsop County",2015
 "1184","Columbia Memorial Hospital",308,201,0,107,"Clatsop County",2015
 "1185","Providence Seaside Hospital",120,93,0,27,"Clatsop County",2015
 "1186","Home Birth (Planned)",18,18,0,0,"Clatsop County",2015
-"1187","Total births",15,15,0,0,"Columbia County",2015
+"1187","Total Births",15,15,0,0,"Columbia County",2015
 "1188","Home Birth (Planned)",14,14,0,0,"Columbia County",2015
 "1189","Home Birth (Unplanned)",1,1,0,0,"Columbia County",2015
-"1190","Total births",670,470,7,193,"Coos County",2015
+"1190","Total Births",670,470,7,193,"Coos County",2015
 "1191","Bay Area Hospital",666,466,7,193,"Coos County",2015
 "1192","Home Birth (Planned)",4,4,0,0,"Coos County",2015
-"1193","Total births",6,6,0,0,"Crook County",2015
+"1193","Total Births",6,6,0,0,"Crook County",2015
 "1194","St Charles - Prineville",2,2,0,0,"Crook County",2015
 "1195","Home Birth (Planned)",4,4,0,0,"Crook County",2015
-"1196","Total births",61,47,0,14,"Curry County",2015
+"1196","Total Births",61,47,0,14,"Curry County",2015
 "1197","Curry General Hospital",39,25,0,14,"Curry County",2015
 "1198","Bright Eyes Midwifery and Wild Rivers Womens Health",8,8,0,0,"Curry County",2015
 "1199","Home Birth (Planned)",6,6,0,0,"Curry County",2015
 "1200","Other",8,8,0,0,"Curry County",2015
-"1201","Total births",2247,1602,43,602,"Deschutes County",2015
+"1201","Total Births",2247,1602,43,602,"Deschutes County",2015
 "1202","St Charles Medical Center - Bend",1705,1140,40,525,"Deschutes County",2015
 "1203","St Charles Medical Center - Redmond",466,387,2,77,"Deschutes County",2015
 "1204","Bend Birth Center",19,19,0,0,"Deschutes County",2015
@@ -1207,22 +1207,22 @@
 "1206","Home Birth (Unplanned)",2,1,1,0,"Deschutes County",2015
 "1207","Home Birth (Unknown if Planned)",1,1,0,0,"Deschutes County",2015
 "1208","Other",2,2,0,0,"Deschutes County",2015
-"1209","Total births",901,669,20,212,"Douglas County",2015
+"1209","Total Births",901,669,20,212,"Douglas County",2015
 "1210","Mercy Medical Center",881,651,18,212,"Douglas County",2015
 "1211","Home Birth (Planned)",19,17,2,0,"Douglas County",2015
 "1212","Home Birth (Unplanned)",1,1,0,0,"Douglas County",2015
-"1213","Total births",49,37,2,10,"Grant County",2015
+"1213","Total Births",49,37,2,10,"Grant County",2015
 "1214","Blue Mountain Hospital District",39,29,0,10,"Grant County",2015
 "1215","Home Birth (Planned)",5,4,1,0,"Grant County",2015
 "1216","Other",5,4,1,0,"Grant County",2015
-"1217","Total births",54,39,0,15,"Harney County",2015
+"1217","Total Births",54,39,0,15,"Harney County",2015
 "1218","Harney District Hospital",53,38,0,15,"Harney County",2015
 "1219","Home Birth (Planned)",1,1,0,0,"Harney County",2015
-"1220","Total births",448,343,0,105,"Hood River County",2015
+"1220","Total Births",448,343,0,105,"Hood River County",2015
 "1221","Providence Hood River Memorial Hospital",436,331,0,105,"Hood River County",2015
 "1222","Home Birth (Planned)",11,11,0,0,"Hood River County",2015
 "1223","Home Birth (Unplanned)",1,1,0,0,"Hood River County",2015
-"1224","Total births",2605,1748,24,833,"Jackson County",2015
+"1224","Total Births",2605,1748,24,833,"Jackson County",2015
 "1225","Asante Ashland Community Hospital",279,201,10,68,"Jackson County",2015
 "1226","Providence Medford Medical Center",434,299,1,134,"Jackson County",2015
 "1227","Asante Rogue Valley Medical Center",1742,1103,8,631,"Jackson County",2015
@@ -1231,26 +1231,26 @@
 "1230","Home Birth (Planned)",70,69,1,0,"Jackson County",2015
 "1231","Home Birth (Unplanned)",1,1,0,0,"Jackson County",2015
 "1232","Other",1,1,0,0,"Jackson County",2015
-"1233","Total births",86,61,0,25,"Jefferson County",2015
+"1233","Total Births",86,61,0,25,"Jefferson County",2015
 "1234","St Charles - Madras",82,57,0,25,"Jefferson County",2015
 "1235","Home Birth (Planned)",3,3,0,0,"Jefferson County",2015
 "1236","Other",1,1,0,0,"Jefferson County",2015
-"1237","Total births",800,628,2,170,"Josephine County",2015
+"1237","Total Births",800,628,2,170,"Josephine County",2015
 "1238","Asante Three Rivers Medical Center",751,579,2,170,"Josephine County",2015
 "1239","Trillium Waterbirth Center - Redwood Clinic",16,16,0,0,"Josephine County",2015
 "1240","Home Birth (Planned)",29,29,0,0,"Josephine County",2015
 "1241","Home Birth (Unplanned)",3,3,0,0,"Josephine County",2015
 "1242","Other",1,1,0,0,"Josephine County",2015
-"1243","Total births",829,628,1,200,"Klamath County",2015
+"1243","Total Births",829,628,1,200,"Klamath County",2015
 "1244","Sky Lakes Medical Center",791,591,0,200,"Klamath County",2015
 "1245","Klamath Birth Center",6,6,0,0,"Klamath County",2015
 "1246","Klamath Womens Clinic & Birth Center",23,22,1,0,"Klamath County",2015
 "1247","Home Birth (Planned)",8,8,0,0,"Klamath County",2015
 "1248","Other",1,1,0,0,"Klamath County",2015
-"1249","Total births",72,52,0,20,"Lake County",2015
+"1249","Total Births",72,52,0,20,"Lake County",2015
 "1250","Lake District Hospital",71,51,0,20,"Lake County",2015
 "1251","Home Birth (Unplanned)",1,1,0,0,"Lake County",2015
-"1252","Total births",3906,2591,79,1235,"Lane County",2015
+"1252","Total Births",3906,2591,79,1235,"Lane County",2015
 "1253","McKenzie-Willamette Medical Center",996,646,27,323,"Lane County",2015
 "1254","Peace Harbor Medical Center",72,54,0,18,"Lane County",2015
 "1255","Sacred Heart Medical Center - RiverBend",2601,1659,48,894,"Lane County",2015
@@ -1260,24 +1260,24 @@
 "1259","Home Birth (Unplanned)",9,9,0,0,"Lane County",2015
 "1260","Home Birth (Unknown if Planned)",2,1,0,0,"Lane County",2015
 "1261","Other",5,4,1,0,"Lane County",2015
-"1262","Total births",333,243,0,90,"Lincoln County",2015
+"1262","Total Births",333,243,0,90,"Lincoln County",2015
 "1263","Samaritan North Lincoln Hospital",144,101,0,43,"Lincoln County",2015
 "1264","Samaritan Pacific Communities Hospital",174,127,0,47,"Lincoln County",2015
 "1265","Home Sweet Home Birth",6,6,0,0,"Lincoln County",2015
 "1266","Home Birth (Planned)",8,8,0,0,"Lincoln County",2015
 "1267","Other",1,1,0,0,"Lincoln County",2015
-"1268","Total births",1006,736,6,264,"Linn County",2015
+"1268","Total Births",1006,736,6,264,"Linn County",2015
 "1269","Samaritan Albany General Hospital",596,411,0,185,"Linn County",2015
 "1270","Samaritan Lebanon Community Hospital",329,249,1,79,"Linn County",2015
 "1271","Growing Family Birth Center",34,32,2,0,"Linn County",2015
 "1272","Home Birth (Planned)",46,43,3,0,"Linn County",2015
 "1273","Other",1,1,0,0,"Linn County",2015
-"1274","Total births",506,336,1,169,"Malheur County",2015
+"1274","Total Births",506,336,1,169,"Malheur County",2015
 "1275","St Alphonsus Medical Center - Ontario",501,331,1,169,"Malheur County",2015
 "1276","Home Birth (Planned)",2,2,0,0,"Malheur County",2015
 "1277","Home Birth (Unplanned)",2,2,0,0,"Malheur County",2015
 "1278","Other",1,1,0,0,"Malheur County",2015
-"1279","Total births",5000,3627,80,1293,"Marion County",2015
+"1279","Total Births",5000,3627,80,1293,"Marion County",2015
 "1280","Salem Hospital",3346,2349,51,946,"Marion County",2015
 "1281","Santiam Memorial Hospital",81,53,1,27,"Marion County",2015
 "1282","Silverton Hospital",1476,1132,24,320,"Marion County",2015
@@ -1285,9 +1285,9 @@
 "1284","Home Birth (Planned)",48,47,1,0,"Marion County",2015
 "1285","Home Birth (Unplanned)",9,9,0,0,"Marion County",2015
 "1286","Other",2,2,0,0,"Marion County",2015
-"1287","Total births",4,4,0,0,"Morrow County",2015
+"1287","Total Births",4,4,0,0,"Morrow County",2015
 "1288","Home Birth (Planned)",4,4,0,0,"Morrow County",2015
-"1289","Total births",10950,7417,384,3149,"Multnomah County",2015
+"1289","Total Births",10950,7417,384,3149,"Multnomah County",2015
 "1290","Adventist Medical Center",1027,725,11,291,"Multnomah County",2015
 "1291","Legacy Emanuel Medical Center",2130,1222,103,805,"Multnomah County",2015
 "1292","Legacy Good Samaritan Medical Center",1116,775,13,328,"Multnomah County",2015
@@ -1299,30 +1299,30 @@
 "1298","Home Birth (Planned)",222,214,8,0,"Multnomah County",2015
 "1299","Home Birth (Unplanned)",15,15,0,0,"Multnomah County",2015
 "1300","Other",6,6,0,0,"Multnomah County",2015
-"1301","Total births",18,17,1,0,"Polk County",2015
+"1301","Total Births",18,17,1,0,"Polk County",2015
 "1302","Home Birth (Planned)",17,16,1,0,"Polk County",2015
 "1303","Home Birth (Unplanned)",1,1,0,0,"Polk County",2015
-"1304","Total births",2,2,0,0,"Sherman County",2015
+"1304","Total Births",2,2,0,0,"Sherman County",2015
 "1305","Home Birth (Planned)",2,2,0,0,"Sherman County",2015
-"1306","Total births",186,132,0,54,"Tillamook County",2015
+"1306","Total Births",186,132,0,54,"Tillamook County",2015
 "1307","Tillamook Regional Medical Center",184,130,0,54,"Tillamook County",2015
 "1308","Home Birth (Planned)",2,2,0,0,"Tillamook County",2015
-"1309","Total births",784,586,2,196,"Umatilla County",2015
+"1309","Total Births",784,586,2,196,"Umatilla County",2015
 "1310","Good Shepherd Medical Center",437,310,0,127,"Umatilla County",2015
 "1311","St Anthony Hospital",333,263,1,69,"Umatilla County",2015
 "1312","Home Birth (Planned)",13,12,1,0,"Umatilla County",2015
 "1313","Other",1,1,0,0,"Umatilla County",2015
-"1314","Total births",267,170,0,97,"Union County",2015
+"1314","Total Births",267,170,0,97,"Union County",2015
 "1315","Grande Ronde Hospital",248,151,0,97,"Union County",2015
 "1316","Home Birth (Planned)",17,17,0,0,"Union County",2015
 "1317","Other",2,2,0,0,"Union County",2015
-"1318","Total births",51,29,0,22,"Wallowa County",2015
+"1318","Total Births",51,29,0,22,"Wallowa County",2015
 "1319","Wallowa Memorial Hospital",49,27,0,22,"Wallowa County",2015
 "1320","Home Birth (Planned)",2,2,0,0,"Wallowa County",2015
-"1321","Total births",320,235,1,84,"Wasco County",2015
+"1321","Total Births",320,235,1,84,"Wasco County",2015
 "1322","Mid-Columbia Medical Center",314,230,0,84,"Wasco County",2015
 "1323","Home Birth (Planned)",6,5,1,0,"Wasco County",2015
-"1324","Total births",6536,4579,193,1764,"Washington County",2015
+"1324","Total Births",6536,4579,193,1764,"Washington County",2015
 "1325","Providence St Vincent Medical Center",4212,2765,121,1326,"Washington County",2015
 "1326","Tuality Community Hospital - Hillsboro",728,583,19,126,"Washington County",2015
 "1327","Kaiser Foundation Hospital- Westside",1392,1037,43,312,"Washington County",2015
@@ -1331,25 +1331,25 @@
 "1330","Home Birth (Planned)",87,85,2,0,"Washington County",2015
 "1331","Home Birth (Unplanned)",10,8,2,0,"Washington County",2015
 "1332","Other",3,3,0,0,"Washington County",2015
-"1333","Total births",2,2,0,0,"Wheeler County",2015
+"1333","Total Births",2,2,0,0,"Wheeler County",2015
 "1334","Home Birth (Planned)",2,2,0,0,"Wheeler County",2015
-"1335","Total births",1145,869,22,254,"Yamhill County",2015
+"1335","Total Births",1145,869,22,254,"Yamhill County",2015
 "1336","Providence Newberg Medical Center",540,415,1,124,"Yamhill County",2015
 "1337","Willamette Valley Medical Center",510,362,18,130,"Yamhill County",2015
 "1338","Bella Vie Gentle Birth Center",67,64,3,0,"Yamhill County",2015
 "1339","Andaluz - Dundee",16,16,0,0,"Yamhill County",2015
 "1340","Home Birth (Planned)",11,11,0,0,"Yamhill County",2015
 "1341","Home Birth (Unplanned)",1,1,0,0,"Yamhill County",2015
-"1342","Total births",45977,32297,1166,12514,"State total",2016
-"1343","Total births",136,102,1,33,"Baker County",2016
+"1342","Total Births",45977,32297,1166,12514,"State Total",2016
+"1343","Total Births",136,102,1,33,"Baker County",2016
 "1344","St Alphonsus Medical Center - Baker City",126,93,0,33,"Baker County",2016
 "1345","Home Birth (Planned)",10,9,1,0,"Baker County",2016
-"1346","Total births",1147,865,44,238,"Benton County",2016
+"1346","Total Births",1147,865,44,238,"Benton County",2016
 "1347","Good Samaritan Regional Medical Center",1084,802,44,238,"Benton County",2016
-"1348","Corvallis Birth and Women’s Health Center",30,30,0,0,"Benton County",2016
+"1348","Corvallis Birth and Women's Health Center",30,30,0,0,"Benton County",2016
 "1349","Home Birth (Planned)",32,32,0,0,"Benton County",2016
 "1350","Other",1,1,0,0,"Benton County",2016
-"1351","Total births",4663,3414,122,1127,"Clackamas County",2016
+"1351","Total Births",4663,3414,122,1127,"Clackamas County",2016
 "1352","Kaiser Sunnyside Medical Center",2385,1748,51,586,"Clackamas County",2016
 "1353","Legacy Meridian Park Hospital",1121,783,23,315,"Clackamas County",2016
 "1354","Providence Milwaukie Hospital",1,1,0,0,"Clackamas County",2016
@@ -1357,47 +1357,47 @@
 "1356","Home Birth (Planned)",92,91,1,0,"Clackamas County",2016
 "1357","Home Birth (Unplanned)",7,7,0,0,"Clackamas County",2016
 "1358","Other",4,4,0,0,"Clackamas County",2016
-"1359","Total births",448,309,0,139,"Clatsop County",2016
+"1359","Total Births",448,309,0,139,"Clatsop County",2016
 "1360","Columbia Memorial Hospital",339,229,0,110,"Clatsop County",2016
 "1361","Providence Seaside Hospital",102,73,0,29,"Clatsop County",2016
 "1362","Home Birth (Planned)",6,6,0,0,"Clatsop County",2016
 "1363","Other",1,1,0,0,"Clatsop County",2016
-"1364","Total births",15,15,0,0,"Columbia County",2016
+"1364","Total Births",15,15,0,0,"Columbia County",2016
 "1365","Home Birth (Planned)",13,13,0,0,"Columbia County",2016
 "1366","Home Birth (Unplanned)",1,1,0,0,"Columbia County",2016
 "1367","Other",1,1,0,0,"Columbia County",2016
-"1368","Total births",681,503,8,170,"Coos County",2016
+"1368","Total Births",681,503,8,170,"Coos County",2016
 "1369","Bay Area Hospital",674,496,8,170,"Coos County",2016
 "1370","Home Birth (Planned)",4,4,0,0,"Coos County",2016
 "1371","Home Birth (Unknown if Planned)",1,1,0,0,"Coos County",2016
 "1372","Other",2,2,0,0,"Coos County",2016
-"1373","Total births",2,2,0,0,"Crook County",2016
+"1373","Total Births",2,2,0,0,"Crook County",2016
 "1374","Home Birth (Planned)",2,2,0,0,"Crook County",2016
-"1375","Total births",28,23,0,5,"Curry County",2016
+"1375","Total Births",28,23,0,5,"Curry County",2016
 "1376","Curry General Hospital",12,7,0,5,"Curry County",2016
 "1377","Bright Eyes Midwifery and Wild Rivers Womens Health",4,4,0,0,"Curry County",2016
 "1378","Home Birth (Planned)",12,12,0,0,"Curry County",2016
-"1379","Total births",2242,1599,49,594,"Deschutes County",2016
+"1379","Total Births",2242,1599,49,594,"Deschutes County",2016
 "1380","St Charles Medical Center - Bend",1760,1195,48,517,"Deschutes County",2016
 "1381","St Charles Medical Center - Redmond",418,341,0,77,"Deschutes County",2016
 "1382","Bend Birth Center",19,19,0,0,"Deschutes County",2016
 "1383","Home Birth (Planned)",44,43,1,0,"Deschutes County",2016
 "1384","Other",1,1,0,0,"Deschutes County",2016
-"1385","Total births",905,671,17,217,"Douglas County",2016
+"1385","Total Births",905,671,17,217,"Douglas County",2016
 "1386","Mercy Medical Center",882,652,13,217,"Douglas County",2016
 "1387","Home Birth (Planned)",22,18,4,0,"Douglas County",2016
 "1388","Other",1,1,0,0,"Douglas County",2016
-"1389","Total births",43,29,1,13,"Grant County",2016
+"1389","Total Births",43,29,1,13,"Grant County",2016
 "1390","Blue Mountain Hospital District",39,26,0,13,"Grant County",2016
 "1391","Home Birth (Planned)",3,2,1,0,"Grant County",2016
 "1392","Home Birth (Unplanned)",1,1,0,0,"Grant County",2016
-"1393","Total births",67,39,0,28,"Harney County",2016
+"1393","Total Births",67,39,0,28,"Harney County",2016
 "1394","Harney District Hospital",67,39,0,28,"Harney County",2016
-"1395","Total births",411,305,2,104,"Hood River County",2016
+"1395","Total Births",411,305,2,104,"Hood River County",2016
 "1396","Providence Hood River Memorial Hospital",404,298,2,104,"Hood River County",2016
 "1397","Home Birth (Planned)",6,6,0,0,"Hood River County",2016
 "1398","Home Birth (Unplanned)",1,1,0,0,"Hood River County",2016
-"1399","Total births",2494,1654,33,807,"Jackson County",2016
+"1399","Total Births",2494,1654,33,807,"Jackson County",2016
 "1400","Asante Ashland Community Hospital",282,195,15,72,"Jackson County",2016
 "1401","Providence Medford Medical Center",438,290,1,147,"Jackson County",2016
 "1402","Asante Rogue Valley Medical Center",1675,1074,13,588,"Jackson County",2016
@@ -1405,25 +1405,25 @@
 "1404","Home Birth (Planned)",63,61,2,0,"Jackson County",2016
 "1405","Home Birth (Unplanned)",2,2,0,0,"Jackson County",2016
 "1406","Other",3,3,0,0,"Jackson County",2016
-"1407","Total births",152,107,1,44,"Jefferson County",2016
+"1407","Total Births",152,107,1,44,"Jefferson County",2016
 "1408","St Charles - Madras",148,103,1,44,"Jefferson County",2016
 "1409","Home Birth (Planned)",4,4,0,0,"Jefferson County",2016
-"1410","Total births",856,677,9,170,"Josephine County",2016
+"1410","Total Births",856,677,9,170,"Josephine County",2016
 "1411","Asante Three Rivers Medical Center",793,614,9,170,"Josephine County",2016
 "1412","Trillium Waterbirth Center - Redwood Clinic",11,11,0,0,"Josephine County",2016
 "1413","Rogue Birth Center",4,4,0,0,"Josephine County",2016
 "1414","Home Birth (Planned)",32,32,0,0,"Josephine County",2016
 "1415","Home Birth (Unplanned)",1,1,0,0,"Josephine County",2016
 "1416","Other",15,15,0,0,"Josephine County",2016
-"1417","Total births",820,595,10,215,"Klamath County",2016
+"1417","Total Births",820,595,10,215,"Klamath County",2016
 "1418","Sky Lakes Medical Center",782,562,5,215,"Klamath County",2016
 "1419","Baby Catchers and Company",3,3,0,0,"Klamath County",2016
 "1420","Klamath Womens Clinic & Birth Center",26,22,4,0,"Klamath County",2016
 "1421","Home Birth (Planned)",8,7,1,0,"Klamath County",2016
 "1422","Home Birth (Unplanned)",1,1,0,0,"Klamath County",2016
-"1423","Total births",56,38,0,18,"Lake County",2016
+"1423","Total Births",56,38,0,18,"Lake County",2016
 "1424","Lake District Hospital",56,38,0,18,"Lake County",2016
-"1425","Total births",3862,2523,85,1254,"Lane County",2016
+"1425","Total Births",3862,2523,85,1254,"Lane County",2016
 "1426","McKenzie-Willamette Medical Center",1032,670,21,341,"Lane County",2016
 "1427","Peace Harbor Medical Center",68,46,0,22,"Lane County",2016
 "1428","Sacred Heart Medical Center - RiverBend",2563,1609,63,891,"Lane County",2016
@@ -1432,22 +1432,22 @@
 "1431","Home Birth (Planned)",73,73,0,0,"Lane County",2016
 "1432","Home Birth (Unplanned)",5,5,0,0,"Lane County",2016
 "1433","Other",5,4,1,0,"Lane County",2016
-"1434","Total births",370,267,3,100,"Lincoln County",2016
+"1434","Total Births",370,267,3,100,"Lincoln County",2016
 "1435","Samaritan North Lincoln Hospital",149,101,0,48,"Lincoln County",2016
 "1436","Samaritan Pacific Communities Hospital",213,158,3,52,"Lincoln County",2016
 "1437","Home Birth (Planned)",7,7,0,0,"Lincoln County",2016
 "1438","Other",1,1,0,0,"Lincoln County",2016
-"1439","Total births",949,714,8,227,"Linn County",2016
+"1439","Total Births",949,714,8,227,"Linn County",2016
 "1440","Samaritan Albany General Hospital",541,387,1,153,"Linn County",2016
 "1441","Samaritan Lebanon Community Hospital",316,242,0,74,"Linn County",2016
 "1442","Growing Family Birth Center",40,37,3,0,"Linn County",2016
 "1443","Home Birth (Planned)",50,46,4,0,"Linn County",2016
 "1444","Other",2,2,0,0,"Linn County",2016
-"1445","Total births",448,320,4,124,"Malheur County",2016
+"1445","Total Births",448,320,4,124,"Malheur County",2016
 "1446","St Alphonsus Medical Center - Ontario",445,318,3,124,"Malheur County",2016
 "1447","Home Birth (Planned)",2,1,1,0,"Malheur County",2016
 "1448","Other",1,1,0,0,"Malheur County",2016
-"1449","Total births",5198,3774,91,1333,"Marion County",2016
+"1449","Total Births",5198,3774,91,1333,"Marion County",2016
 "1450","Salem Hospital",3516,2462,58,996,"Marion County",2016
 "1451","Santiam Memorial Hospital",86,60,0,26,"Marion County",2016
 "1452","Silverton Hospital",1467,1126,30,311,"Marion County",2016
@@ -1455,9 +1455,9 @@
 "1454","Home Birth (Planned)",70,69,1,0,"Marion County",2016
 "1455","Home Birth (Unplanned)",10,10,0,0,"Marion County",2016
 "1456","Other",8,7,1,0,"Marion County",2016
-"1457","Total births",2,2,0,0,"Morrow County",2016
+"1457","Total Births",2,2,0,0,"Morrow County",2016
 "1458","Home Birth (Planned)",2,2,0,0,"Morrow County",2016
-"1459","Total births",10953,7342,436,3175,"Multnomah County",2016
+"1459","Total Births",10953,7342,436,3175,"Multnomah County",2016
 "1460","Adventist Medical Center",936,646,16,274,"Multnomah County",2016
 "1461","Legacy Emanuel Medical Center",2091,1260,74,757,"Multnomah County",2016
 "1462","Legacy Good Samaritan Medical Center",1138,795,16,327,"Multnomah County",2016
@@ -1470,29 +1470,29 @@
 "1469","Home Birth (Unplanned)",18,18,0,0,"Multnomah County",2016
 "1470","Home Birth (Unknown if Planned)",2,1,1,0,"Multnomah County",2016
 "1471","Other",9,8,1,0,"Multnomah County",2016
-"1472","Total births",13,12,1,0,"Polk County",2016
+"1472","Total Births",13,12,1,0,"Polk County",2016
 "1473","Home Birth (Planned)",12,11,1,0,"Polk County",2016
 "1474","Other",1,1,0,0,"Polk County",2016
-"1475","Total births",1,1,0,0,"Sherman County",2016
+"1475","Total Births",1,1,0,0,"Sherman County",2016
 "1476","Home Birth (Planned)",1,1,0,0,"Sherman County",2016
-"1477","Total births",191,136,0,55,"Tillamook County",2016
+"1477","Total Births",191,136,0,55,"Tillamook County",2016
 "1478","Tillamook Regional Medical Center",183,128,0,55,"Tillamook County",2016
 "1479","Home Birth (Planned)",8,8,0,0,"Tillamook County",2016
-"1480","Total births",731,498,4,229,"Umatilla County",2016
+"1480","Total Births",731,498,4,229,"Umatilla County",2016
 "1481","Good Shepherd Medical Center",413,277,0,136,"Umatilla County",2016
 "1482","St Anthony Hospital",306,211,2,93,"Umatilla County",2016
 "1483","Home Birth (Planned)",10,8,2,0,"Umatilla County",2016
 "1484","Home Birth (Unknown if Planned)",1,1,0,0,"Umatilla County",2016
 "1485","Other",1,1,0,0,"Umatilla County",2016
-"1486","Total births",285,187,1,97,"Union County",2016
+"1486","Total Births",285,187,1,97,"Union County",2016
 "1487","Grande Ronde Hospital",272,175,0,97,"Union County",2016
 "1488","Home Birth (Planned)",13,12,1,0,"Union County",2016
-"1489","Total births",55,33,0,22,"Wallowa County",2016
+"1489","Total Births",55,33,0,22,"Wallowa County",2016
 "1490","Wallowa Memorial Hospital",55,33,0,22,"Wallowa County",2016
-"1491","Total births",280,204,1,75,"Wasco County",2016
+"1491","Total Births",280,204,1,75,"Wasco County",2016
 "1492","Mid-Columbia Medical Center",275,199,1,75,"Wasco County",2016
 "1493","Home Birth (Planned)",5,5,0,0,"Wasco County",2016
-"1494","Total births",6339,4458,218,1663,"Washington County",2016
+"1494","Total Births",6339,4458,218,1663,"Washington County",2016
 "1495","Providence St Vincent Medical Center",4010,2626,158,1226,"Washington County",2016
 "1496","Tuality Community Hospital - Hillsboro",706,545,21,140,"Washington County",2016
 "1497","Kaiser Foundation Hospital- Westside",1446,1115,34,297,"Washington County",2016
@@ -1501,69 +1501,69 @@
 "1500","Home Birth (Planned)",72,70,2,0,"Washington County",2016
 "1501","Home Birth (Unplanned)",9,9,0,0,"Washington County",2016
 "1502","Other",4,4,0,0,"Washington County",2016
-"1503","Total births",1133,878,17,238,"Yamhill County",2016
+"1503","Total Births",1133,878,17,238,"Yamhill County",2016
 "1504","Providence Newberg Medical Center",527,409,6,112,"Yamhill County",2016
 "1505","Willamette Valley Medical Center",510,374,10,126,"Yamhill County",2016
 "1506","Bella Vie Gentle Birth Center",60,59,1,0,"Yamhill County",2016
 "1507","Andaluz - Dundee",21,21,0,0,"Yamhill County",2016
 "1508","Home Birth (Planned)",14,14,0,0,"Yamhill County",2016
 "1509","Other",1,1,0,0,"Yamhill County",2016
-"1510","Total births",44160,30773,993,12394,"State total",2017
-"1511","Total births",129,105,0,24,"Baker County",2017
+"1510","Total Births",44160,30773,993,12394,"State Total",2017
+"1511","Total Births",129,105,0,24,"Baker County",2017
 "1512","St Alphonsus Medical Center - Baker City",123,99,0,24,"Baker County",2017
 "1513","Home Birth (Planned)",5,5,0,0,"Baker County",2017
 "1514","Other",1,1,0,0,"Baker County",2017
-"1515","Total births",1107,822,33,252,"Benton County",2017
+"1515","Total Births",1107,822,33,252,"Benton County",2017
 "1516","Good Samaritan Regional Medical Center",992,708,32,252,"Benton County",2017
-"1517","Corvallis Birth and Women’s Health Center",92,92,0,0,"Benton County",2017
+"1517","Corvallis Birth and Women's Health Center",92,92,0,0,"Benton County",2017
 "1518","Home Birth (Planned)",22,21,1,0,"Benton County",2017
 "1519","Home Birth (Unplanned)",1,1,0,0,"Benton County",2017
-"1520","Total births",4357,3140,103,1114,"Clackamas County",2017
+"1520","Total Births",4357,3140,103,1114,"Clackamas County",2017
 "1521","Kaiser Sunnyside Medical Center",2301,1666,54,581,"Clackamas County",2017
 "1522","Legacy Meridian Park Hospital",992,668,16,308,"Clackamas County",2017
 "1523","Providence Willamette Falls Medical Center",963,707,31,225,"Clackamas County",2017
 "1524","Home Birth (Planned)",98,96,2,0,"Clackamas County",2017
 "1525","Home Birth (Unplanned)",2,2,0,0,"Clackamas County",2017
 "1526","Other",1,1,0,0,"Clackamas County",2017
-"1527","Total births",401,300,1,100,"Clatsop County",2017
+"1527","Total Births",401,300,1,100,"Clatsop County",2017
 "1528","Columbia Memorial Hospital",286,221,1,64,"Clatsop County",2017
 "1529","Providence Seaside Hospital",104,68,0,36,"Clatsop County",2017
 "1530","Home Birth (Planned)",11,11,0,0,"Clatsop County",2017
-"1531","Total births",14,14,0,0,"Columbia County",2017
+"1531","Total Births",14,14,0,0,"Columbia County",2017
 "1532","Home Birth (Planned)",14,14,0,0,"Columbia County",2017
-"1533","Total births",678,475,13,190,"Coos County",2017
+"1533","Total Births",678,475,13,190,"Coos County",2017
 "1534","Bay Area Hospital",670,468,12,190,"Coos County",2017
 "1535","Home Birth (Planned)",4,4,0,0,"Coos County",2017
 "1536","Home Birth (Unplanned)",2,2,0,0,"Coos County",2017
 "1537","Other",2,1,1,0,"Coos County",2017
-"1538","Total births",1,1,0,0,"Crook County",2017
+"1538","Total Births",1,1,0,0,"Crook County",2017
 "1539","Home Birth (Planned)",1,1,0,0,"Crook County",2017
-"1540","Total births",7,7,0,0,"Curry County",2017
+"1540","Total Births",7,7,0,0,"Curry County",2017
 "1541","Home Birth (Planned)",6,6,0,0,"Curry County",2017
 "1542","Other",1,1,0,0,"Curry County",2017
-"1543","Total births",2283,1625,45,613,"Deschutes County",2017
+"1543","Total Births",2283,1625,45,613,"Deschutes County",2017
 "1544","St Charles Medical Center - Bend",1695,1134,41,520,"Deschutes County",2017
 "1545","St Charles Medical Center - Redmond",510,417,0,93,"Deschutes County",2017
 "1546","Bend Birth Center",13,13,0,0,"Deschutes County",2017
 "1547","Home Birth (Planned)",60,57,3,0,"Deschutes County",2017
 "1548","Home Birth (Unplanned)",4,3,1,0,"Deschutes County",2017
 "1549","Other",1,1,0,0,"Deschutes County",2017
-"1550","Total births",895,682,23,190,"Douglas County",2017
+"1550","Total Births",895,682,23,190,"Douglas County",2017
 "1551","Mercy Medical Center",872,660,22,190,"Douglas County",2017
-"1552","Clinic/Doctor’s Office",1,1,0,0,"Douglas County",2017
+"1552","Clinic/Doctor's Office",1,1,0,0,"Douglas County",2017
 "1553","Home Birth (Planned)",20,19,1,0,"Douglas County",2017
 "1554","Home Birth (Unplanned)",2,2,0,0,"Douglas County",2017
-"1555","Total births",1,1,0,0,"Gilliam County",2017
+"1555","Total Births",1,1,0,0,"Gilliam County",2017
 "1556","Home Birth (Planned)",1,1,0,0,"Gilliam County",2017
-"1557","Total births",47,35,0,12,"Grant County",2017
+"1557","Total Births",47,35,0,12,"Grant County",2017
 "1558","Blue Mountain Hospital District",46,34,0,12,"Grant County",2017
 "1559","Home Birth (Planned)",1,1,0,0,"Grant County",2017
-"1560","Total births",51,35,0,16,"Harney County",2017
+"1560","Total Births",51,35,0,16,"Harney County",2017
 "1561","Harney District Hospital",51,35,0,16,"Harney County",2017
-"1562","Total births",458,333,1,124,"Hood River County",2017
+"1562","Total Births",458,333,1,124,"Hood River County",2017
 "1563","Providence Hood River Memorial Hospital",450,325,1,124,"Hood River County",2017
 "1564","Home Birth (Planned)",8,8,0,0,"Hood River County",2017
-"1565","Total births",2438,1606,23,809,"Jackson County",2017
+"1565","Total Births",2438,1606,23,809,"Jackson County",2017
 "1566","Asante Ashland Community Hospital",271,206,9,56,"Jackson County",2017
 "1567","Providence Medford Medical Center",480,339,2,139,"Jackson County",2017
 "1568","Asante Rogue Valley Medical Center",1594,970,10,614,"Jackson County",2017
@@ -1571,23 +1571,23 @@
 "1570","Home Birth (Planned)",60,58,2,0,"Jackson County",2017
 "1571","Home Birth (Unplanned)",4,4,0,0,"Jackson County",2017
 "1572","Other",2,2,0,0,"Jackson County",2017
-"1573","Total births",128,96,1,31,"Jefferson County",2017
+"1573","Total Births",128,96,1,31,"Jefferson County",2017
 "1574","St Charles - Madras",123,91,1,31,"Jefferson County",2017
 "1575","Home Birth (Planned)",3,3,0,0,"Jefferson County",2017
 "1576","Home Birth (Unplanned)",2,2,0,0,"Jefferson County",2017
-"1577","Total births",843,657,2,184,"Josephine County",2017
+"1577","Total Births",843,657,2,184,"Josephine County",2017
 "1578","Asante Three Rivers Medical Center",794,608,2,184,"Josephine County",2017
 "1579","Rogue Birth Center",19,19,0,0,"Josephine County",2017
 "1580","Home Birth (Planned)",25,25,0,0,"Josephine County",2017
 "1581","Home Birth (Unplanned)",5,5,0,0,"Josephine County",2017
-"1582","Total births",812,624,5,183,"Klamath County",2017
+"1582","Total Births",812,624,5,183,"Klamath County",2017
 "1583","Sky Lakes Medical Center",770,585,2,183,"Klamath County",2017
 "1584","Klamath Womens Clinic & Birth Center",31,29,2,0,"Klamath County",2017
 "1585","Home Birth (Planned)",10,9,1,0,"Klamath County",2017
 "1586","Other",1,1,0,0,"Klamath County",2017
-"1587","Total births",61,43,1,17,"Lake County",2017
+"1587","Total Births",61,43,1,17,"Lake County",2017
 "1588","Lake District Hospital",61,43,1,17,"Lake County",2017
-"1589","Total births",3738,2395,65,1278,"Lane County",2017
+"1589","Total Births",3738,2395,65,1278,"Lane County",2017
 "1590","McKenzie-Willamette Medical Center",974,624,12,338,"Lane County",2017
 "1591","Peace Harbor Medical Center",71,56,0,15,"Lane County",2017
 "1592","Sacred Heart Medical Center - RiverBend",2535,1559,51,925,"Lane County",2017
@@ -1596,11 +1596,11 @@
 "1595","Home Birth (Unplanned)",9,9,0,0,"Lane County",2017
 "1596","Home Birth (Unknown if Planned)",2,2,0,0,"Lane County",2017
 "1597","Other",2,2,0,0,"Lane County",2017
-"1598","Total births",315,233,0,82,"Lincoln County",2017
+"1598","Total Births",315,233,0,82,"Lincoln County",2017
 "1599","Samaritan North Lincoln Hospital",146,105,0,41,"Lincoln County",2017
 "1600","Samaritan Pacific Communities Hospital",164,123,0,41,"Lincoln County",2017
 "1601","Home Birth (Planned)",5,5,0,0,"Lincoln County",2017
-"1602","Total births",895,635,5,255,"Linn County",2017
+"1602","Total Births",895,635,5,255,"Linn County",2017
 "1603","Good Samaritan Regional Medical Center",1,1,0,0,"Linn County",2017
 "1604","Samaritan Albany General Hospital",536,349,1,186,"Linn County",2017
 "1605","Samaritan Lebanon Community Hospital",283,212,2,69,"Linn County",2017
@@ -1608,11 +1608,11 @@
 "1607","Home Birth (Planned)",49,48,1,0,"Linn County",2017
 "1608","Home Birth (Unplanned)",1,1,0,0,"Linn County",2017
 "1609","Other",2,2,0,0,"Linn County",2017
-"1610","Total births",456,316,4,136,"Malheur County",2017
+"1610","Total Births",456,316,4,136,"Malheur County",2017
 "1611","St Alphonsus Medical Center - Ontario",454,315,3,136,"Malheur County",2017
 "1612","Home Birth (Planned)",1,1,0,0,"Malheur County",2017
 "1613","Other",1,0,1,0,"Malheur County",2017
-"1614","Total births",5054,3563,98,1393,"Marion County",2017
+"1614","Total Births",5054,3563,98,1393,"Marion County",2017
 "1615","Salem Hospital",3485,2365,56,1064,"Marion County",2017
 "1616","Santiam Memorial Hospital",122,100,0,22,"Marion County",2017
 "1617","Silverton Hospital",1346,1000,39,307,"Marion County",2017
@@ -1620,9 +1620,9 @@
 "1619","Home Birth (Planned)",59,56,3,0,"Marion County",2017
 "1620","Home Birth (Unplanned)",9,9,0,0,"Marion County",2017
 "1621","Other",3,3,0,0,"Marion County",2017
-"1622","Total births",1,1,0,0,"Morrow County",2017
+"1622","Total Births",1,1,0,0,"Morrow County",2017
 "1623","Home Birth (Unknown if Planned)",1,1,0,0,"Morrow County",2017
-"1624","Total births",10217,6812,387,3018,"Multnomah County",2017
+"1624","Total Births",10217,6812,387,3018,"Multnomah County",2017
 "1625","Adventist Medical Center",789,532,11,246,"Multnomah County",2017
 "1626","Legacy Emanuel Medical Center",1902,1109,95,698,"Multnomah County",2017
 "1627","Legacy Good Samaritan Medical Center",995,666,10,319,"Multnomah County",2017
@@ -1631,35 +1631,35 @@
 "1630","Providence Portland Medical Center",2888,1979,98,811,"Multnomah County",2017
 "1631","Alma Midwifery Services",67,64,3,0,"Multnomah County",2017
 "1632","Andaluz Birth Center - Portland",73,69,4,0,"Multnomah County",2017
-"1633","Women’s Healthcare Associates",47,47,0,0,"Multnomah County",2017
+"1633","Women's Healthcare Associates",47,47,0,0,"Multnomah County",2017
 "1634","Home Birth (Planned)",204,201,3,0,"Multnomah County",2017
 "1635","Home Birth (Unplanned)",14,14,0,0,"Multnomah County",2017
 "1636","Other",7,6,1,0,"Multnomah County",2017
-"1637","Total births",18,18,0,0,"Polk County",2017
+"1637","Total Births",18,18,0,0,"Polk County",2017
 "1638","Home Birth (Planned)",15,15,0,0,"Polk County",2017
 "1639","Home Birth (Unplanned)",3,3,0,0,"Polk County",2017
-"1640","Total births",1,1,0,0,"Sherman County",2017
+"1640","Total Births",1,1,0,0,"Sherman County",2017
 "1641","Home Birth (Planned)",1,1,0,0,"Sherman County",2017
-"1642","Total births",158,107,0,51,"Tillamook County",2017
+"1642","Total Births",158,107,0,51,"Tillamook County",2017
 "1643","Tillamook Regional Medical Center",151,100,0,51,"Tillamook County",2017
 "1644","Home Birth (Planned)",7,7,0,0,"Tillamook County",2017
-"1645","Total births",777,539,2,236,"Umatilla County",2017
+"1645","Total Births",777,539,2,236,"Umatilla County",2017
 "1646","Good Shepherd Medical Center",415,296,2,117,"Umatilla County",2017
 "1647","St Anthony Hospital",358,239,0,119,"Umatilla County",2017
 "1648","Home Birth (Planned)",3,3,0,0,"Umatilla County",2017
 "1649","Other",1,1,0,0,"Umatilla County",2017
-"1650","Total births",262,159,1,102,"Union County",2017
+"1650","Total Births",262,159,1,102,"Union County",2017
 "1651","Grande Ronde Hospital",254,151,1,102,"Union County",2017
 "1652","Home Birth (Planned)",7,7,0,0,"Union County",2017
 "1653","Home Birth (Unknown if Planned)",1,1,0,0,"Union County",2017
-"1654","Total births",50,30,0,20,"Wallowa County",2017
+"1654","Total Births",50,30,0,20,"Wallowa County",2017
 "1655","Wallowa Memorial Hospital",49,29,0,20,"Wallowa County",2017
 "1656","Home Birth (Planned)",1,1,0,0,"Wallowa County",2017
-"1657","Total births",286,213,0,73,"Wasco County",2017
+"1657","Total Births",286,213,0,73,"Wasco County",2017
 "1658","Mid-Columbia Medical Center",280,207,0,73,"Wasco County",2017
 "1659","Home Birth (Planned)",5,5,0,0,"Wasco County",2017
 "1660","Other",1,1,0,0,"Wasco County",2017
-"1661","Total births",6118,4308,162,1648,"Washington County",2017
+"1661","Total Births",6118,4308,162,1648,"Washington County",2017
 "1662","Providence St Vincent Medical Center",3812,2539,104,1169,"Washington County",2017
 "1663","Tuality Community Hospital - Hillsboro",647,497,20,130,"Washington County",2017
 "1664","Kaiser Foundation Hospital- Westside",1528,1148,31,349,"Washington County",2017
@@ -1668,52 +1668,52 @@
 "1667","Home Birth (Planned)",58,55,3,0,"Washington County",2017
 "1668","Home Birth (Unplanned)",8,8,0,0,"Washington County",2017
 "1669","Other",3,3,0,0,"Washington County",2017
-"1670","Total births",2,2,0,0,"Wheeler County",2017
+"1670","Total Births",2,2,0,0,"Wheeler County",2017
 "1671","Home Birth (Planned)",2,2,0,0,"Wheeler County",2017
-"1672","Total births",1101,840,18,243,"Yamhill County",2017
+"1672","Total Births",1101,840,18,243,"Yamhill County",2017
 "1673","Providence Newberg Medical Center",564,416,9,139,"Yamhill County",2017
 "1674","Willamette Valley Medical Center",451,342,5,104,"Yamhill County",2017
 "1675","Bella Vie Gentle Birth Center",48,46,2,0,"Yamhill County",2017
 "1676","Andaluz - Dundee",25,23,2,0,"Yamhill County",2017
 "1677","Home Birth (Planned)",10,10,0,0,"Yamhill County",2017
 "1678","Home Birth (Unplanned)",3,3,0,0,"Yamhill County",2017
-"1679","Total births",42705,29655,1054,11996,"State total",2018
-"1680","Total births",131,95,1,35,"Baker County",2018
+"1679","Total Births",42705,29655,1054,11996,"State Total",2018
+"1680","Total Births",131,95,1,35,"Baker County",2018
 "1681","St Alphonsus Medical Center - Baker City",126,90,1,35,"Baker County",2018
 "1682","Home Birth (Planned)",5,5,0,0,"Baker County",2018
-"1683","Total births",1045,804,39,202,"Benton County",2018
+"1683","Total Births",1045,804,39,202,"Benton County",2018
 "1684","Good Samaritan Regional Medical Center",940,705,33,202,"Benton County",2018
-"1685","Corvallis Birth and Women’s Health Center",83,82,1,0,"Benton County",2018
+"1685","Corvallis Birth and Women's Health Center",83,82,1,0,"Benton County",2018
 "1686","Home Birth (Planned)",21,16,5,0,"Benton County",2018
 "1687","Other",1,1,0,0,"Benton County",2018
-"1688","Total births",4189,2932,103,1154,"Clackamas County",2018
+"1688","Total Births",4189,2932,103,1154,"Clackamas County",2018
 "1689","Kaiser Sunnyside Medical Center",2263,1564,63,636,"Clackamas County",2018
 "1690","Legacy Meridian Park Hospital",961,680,13,268,"Clackamas County",2018
 "1691","Providence Willamette Falls Medical Center",860,585,25,250,"Clackamas County",2018
 "1692","Home Birth (Planned)",92,91,1,0,"Clackamas County",2018
 "1693","Home Birth (Unplanned)",8,7,1,0,"Clackamas County",2018
 "1694","Other",5,5,0,0,"Clackamas County",2018
-"1695","Total births",410,299,0,111,"Clatsop County",2018
+"1695","Total Births",410,299,0,111,"Clatsop County",2018
 "1696","Columbia Memorial Hospital",304,220,0,84,"Clatsop County",2018
 "1697","Providence Seaside Hospital",95,68,0,27,"Clatsop County",2018
 "1698","Home Birth (Planned)",10,10,0,0,"Clatsop County",2018
 "1699","Other",1,1,0,0,"Clatsop County",2018
-"1700","Total births",12,11,1,0,"Columbia County",2018
+"1700","Total Births",12,11,1,0,"Columbia County",2018
 "1701","Home Birth (Planned)",11,10,1,0,"Columbia County",2018
 "1702","Home Birth (Unplanned)",1,1,0,0,"Columbia County",2018
-"1703","Total births",668,486,9,173,"Coos County",2018
+"1703","Total Births",668,486,9,173,"Coos County",2018
 "1704","Bay Area Hospital",654,472,9,173,"Coos County",2018
 "1705","Coquille Valley Hospital",1,1,0,0,"Coos County",2018
 "1706","Home Birth (Planned)",9,9,0,0,"Coos County",2018
 "1707","Home Birth (Unplanned)",2,2,0,0,"Coos County",2018
 "1708","Other",2,2,0,0,"Coos County",2018
-"1709","Total births",5,5,0,0,"Crook County",2018
+"1709","Total Births",5,5,0,0,"Crook County",2018
 "1710","St Charles - Prineville",1,1,0,0,"Crook County",2018
 "1711","Home Birth (Planned)",3,3,0,0,"Crook County",2018
 "1712","Other",1,1,0,0,"Crook County",2018
-"1713","Total births",2,2,0,0,"Curry County",2018
+"1713","Total Births",2,2,0,0,"Curry County",2018
 "1714","Home Birth (Planned)",2,2,0,0,"Curry County",2018
-"1715","Total births",2236,1555,44,637,"Deschutes County",2018
+"1715","Total Births",2236,1555,44,637,"Deschutes County",2018
 "1716","St Charles - Madras",1,0,0,1,"Deschutes County",2018
 "1717","St Charles Medical Center - Bend",1667,1098,40,529,"Deschutes County",2018
 "1718","St Charles Medical Center - Redmond",491,384,0,107,"Deschutes County",2018
@@ -1722,23 +1722,23 @@
 "1721","Home Birth (Unplanned)",2,2,0,0,"Deschutes County",2018
 "1722","Home Birth (Unknown if Planned)",1,1,0,0,"Deschutes County",2018
 "1723","Other",1,1,0,0,"Deschutes County",2018
-"1724","Total births",883,712,25,146,"Douglas County",2018
+"1724","Total Births",883,712,25,146,"Douglas County",2018
 "1725","Mercy Medical Center",857,689,22,146,"Douglas County",2018
 "1726","Home Birth (Planned)",20,17,3,0,"Douglas County",2018
 "1727","Home Birth (Unplanned)",4,4,0,0,"Douglas County",2018
 "1728","Other",2,2,0,0,"Douglas County",2018
-"1729","Total births",45,36,0,9,"Grant County",2018
+"1729","Total Births",45,36,0,9,"Grant County",2018
 "1730","Blue Mountain Hospital District",39,30,0,9,"Grant County",2018
 "1731","Home Birth (Planned)",5,5,0,0,"Grant County",2018
 "1732","Home Birth (Unplanned)",1,1,0,0,"Grant County",2018
-"1733","Total births",39,26,0,13,"Harney County",2018
+"1733","Total Births",39,26,0,13,"Harney County",2018
 "1734","Harney District Hospital",37,24,0,13,"Harney County",2018
 "1735","Home Birth (Planned)",2,2,0,0,"Harney County",2018
-"1736","Total births",436,315,0,121,"Hood River County",2018
+"1736","Total Births",436,315,0,121,"Hood River County",2018
 "1737","Providence Hood River Memorial Hospital",429,308,0,121,"Hood River County",2018
 "1738","Home Birth (Planned)",6,6,0,0,"Hood River County",2018
 "1739","Home Birth (Unplanned)",1,1,0,0,"Hood River County",2018
-"1740","Total births",2408,1602,32,774,"Jackson County",2018
+"1740","Total Births",2408,1602,32,774,"Jackson County",2018
 "1741","Asante Ashland Community Hospital",253,190,10,53,"Jackson County",2018
 "1742","Providence Medford Medical Center",476,334,2,140,"Jackson County",2018
 "1743","Asante Rogue Valley Medical Center",1606,1009,16,581,"Jackson County",2018
@@ -1746,24 +1746,24 @@
 "1745","Home Birth (Planned)",46,43,3,0,"Jackson County",2018
 "1746","Home Birth (Unplanned)",3,3,0,0,"Jackson County",2018
 "1747","Other",3,3,0,0,"Jackson County",2018
-"1748","Total births",152,121,2,29,"Jefferson County",2018
+"1748","Total Births",152,121,2,29,"Jefferson County",2018
 "1749","St Charles - Madras",149,118,2,29,"Jefferson County",2018
 "1750","Home Birth (Planned)",2,2,0,0,"Jefferson County",2018
 "1751","Home Birth (Unplanned)",1,1,0,0,"Jefferson County",2018
-"1752","Total births",821,652,6,163,"Josephine County",2018
+"1752","Total Births",821,652,6,163,"Josephine County",2018
 "1753","Asante Three Rivers Medical Center",757,589,5,163,"Josephine County",2018
 "1754","Rogue Birth Center",37,36,1,0,"Josephine County",2018
 "1755","Home Birth (Planned)",23,23,0,0,"Josephine County",2018
 "1756","Home Birth (Unplanned)",2,2,0,0,"Josephine County",2018
 "1757","Other",2,2,0,0,"Josephine County",2018
-"1758","Total births",728,533,9,186,"Klamath County",2018
+"1758","Total Births",728,533,9,186,"Klamath County",2018
 "1759","Sky Lakes Medical Center",705,511,8,186,"Klamath County",2018
 "1760","Klamath Womens Clinic & Birth Center",15,14,1,0,"Klamath County",2018
 "1761","Home Birth (Planned)",8,8,0,0,"Klamath County",2018
-"1762","Total births",62,43,0,19,"Lake County",2018
+"1762","Total Births",62,43,0,19,"Lake County",2018
 "1763","Lake District Hospital",61,42,0,19,"Lake County",2018
 "1764","Home Birth (Unplanned)",1,1,0,0,"Lake County",2018
-"1765","Total births",3591,2295,64,1232,"Lane County",2018
+"1765","Total Births",3591,2295,64,1232,"Lane County",2018
 "1766","McKenzie-Willamette Medical Center",898,542,15,341,"Lane County",2018
 "1767","Peace Harbor Medical Center",54,38,0,16,"Lane County",2018
 "1768","Sacred Heart Medical Center - RiverBend",2498,1575,48,875,"Lane County",2018
@@ -1772,12 +1772,12 @@
 "1771","Home Birth (Unplanned)",10,10,0,0,"Lane County",2018
 "1772","Home Birth (Unknown if Planned)",1,1,0,0,"Lane County",2018
 "1773","Other",1,1,0,0,"Lane County",2018
-"1774","Total births",289,210,2,77,"Lincoln County",2018
+"1774","Total Births",289,210,2,77,"Lincoln County",2018
 "1775","Samaritan North Lincoln Hospital",101,70,1,30,"Lincoln County",2018
 "1776","Samaritan Pacific Communities Hospital",182,134,1,47,"Lincoln County",2018
 "1777","Home Birth (Planned)",5,5,0,0,"Lincoln County",2018
 "1778","Other",1,1,0,0,"Lincoln County",2018
-"1779","Total births",945,688,8,249,"Linn County",2018
+"1779","Total Births",945,688,8,249,"Linn County",2018
 "1780","Samaritan Albany General Hospital",560,384,0,176,"Linn County",2018
 "1781","Samaritan Lebanon Community Hospital",306,232,1,73,"Linn County",2018
 "1782","Growing Family Birth Center",33,30,3,0,"Linn County",2018
@@ -1785,11 +1785,11 @@
 "1784","Home Birth (Unplanned)",2,2,0,0,"Linn County",2018
 "1785","Home Birth (Unknown if Planned)",1,1,0,0,"Linn County",2018
 "1786","Other",2,2,0,0,"Linn County",2018
-"1787","Total births",416,299,0,117,"Malheur County",2018
+"1787","Total Births",416,299,0,117,"Malheur County",2018
 "1788","St Alphonsus Medical Center - Ontario",413,296,0,117,"Malheur County",2018
 "1789","Home Birth (Planned)",2,2,0,0,"Malheur County",2018
 "1790","Other",1,1,0,0,"Malheur County",2018
-"1791","Total births",4848,3419,103,1326,"Marion County",2018
+"1791","Total Births",4848,3419,103,1326,"Marion County",2018
 "1792","Salem Hospital",3386,2312,67,1007,"Marion County",2018
 "1793","Santiam Memorial Hospital",124,96,0,28,"Marion County",2018
 "1794","Silverton Hospital",1217,896,30,291,"Marion County",2018
@@ -1797,7 +1797,7 @@
 "1796","Home Birth (Planned)",68,66,2,0,"Marion County",2018
 "1797","Home Birth (Unplanned)",9,8,1,0,"Marion County",2018
 "1798","Other",4,3,1,0,"Marion County",2018
-"1799","Total births",10059,6722,390,2947,"Multnomah County",2018
+"1799","Total Births",10059,6722,390,2947,"Multnomah County",2018
 "1800","Adventist Medical Center",777,531,14,232,"Multnomah County",2018
 "1801","Legacy Emanuel Medical Center",1826,1098,80,648,"Multnomah County",2018
 "1802","Legacy Good Samaritan Medical Center",984,674,11,299,"Multnomah County",2018
@@ -1806,33 +1806,33 @@
 "1805","Providence Portland Medical Center",2882,1943,103,836,"Multnomah County",2018
 "1806","Alma Midwifery Services",43,38,5,0,"Multnomah County",2018
 "1807","Andaluz Birth Center - Portland",112,110,2,0,"Multnomah County",2018
-"1808","Women’s Healthcare Associates",71,71,0,0,"Multnomah County",2018
+"1808","Women's Healthcare Associates",71,71,0,0,"Multnomah County",2018
 "1809","Home Birth (Planned)",145,142,3,0,"Multnomah County",2018
 "1810","Home Birth (Unplanned)",9,9,0,0,"Multnomah County",2018
 "1811","Home Birth (Unknown if Planned)",1,1,0,0,"Multnomah County",2018
 "1812","Other",3,3,0,0,"Multnomah County",2018
-"1813","Total births",17,16,1,0,"Polk County",2018
+"1813","Total Births",17,16,1,0,"Polk County",2018
 "1814","Home Birth (Planned)",16,15,1,0,"Polk County",2018
 "1815","Home Birth (Unplanned)",1,1,0,0,"Polk County",2018
-"1816","Total births",179,116,1,62,"Tillamook County",2018
+"1816","Total Births",179,116,1,62,"Tillamook County",2018
 "1817","Tillamook Regional Medical Center",176,113,1,62,"Tillamook County",2018
 "1818","Home Birth (Planned)",3,3,0,0,"Tillamook County",2018
-"1819","Total births",686,480,0,206,"Umatilla County",2018
+"1819","Total Births",686,480,0,206,"Umatilla County",2018
 "1820","Good Shepherd Medical Center",383,285,0,98,"Umatilla County",2018
 "1821","St Anthony Hospital",297,189,0,108,"Umatilla County",2018
 "1822","Home Birth (Planned)",3,3,0,0,"Umatilla County",2018
 "1823","Home Birth (Unplanned)",1,1,0,0,"Umatilla County",2018
 "1824","Other",2,2,0,0,"Umatilla County",2018
-"1825","Total births",246,162,0,84,"Union County",2018
+"1825","Total Births",246,162,0,84,"Union County",2018
 "1826","Grande Ronde Hospital",233,149,0,84,"Union County",2018
 "1827","Home Birth (Planned)",13,13,0,0,"Union County",2018
-"1828","Total births",53,35,1,17,"Wallowa County",2018
+"1828","Total Births",53,35,1,17,"Wallowa County",2018
 "1829","Wallowa Memorial Hospital",48,31,0,17,"Wallowa County",2018
 "1830","Home Birth (Planned)",5,4,1,0,"Wallowa County",2018
-"1831","Total births",264,187,1,76,"Wasco County",2018
+"1831","Total Births",264,187,1,76,"Wasco County",2018
 "1832","Mid-Columbia Medical Center",257,181,0,76,"Wasco County",2018
 "1833","Home Birth (Planned)",7,6,1,0,"Wasco County",2018
-"1834","Total births",5830,4037,192,1601,"Washington County",2018
+"1834","Total Births",5830,4037,192,1601,"Washington County",2018
 "1835","Providence St Vincent Medical Center",3618,2387,124,1107,"Washington County",2018
 "1836","Tuality Community Hospital - Hillsboro",577,424,14,139,"Washington County",2018
 "1837","Kaiser Foundation Hospital- Westside",1527,1125,47,355,"Washington County",2018
@@ -1840,9 +1840,9 @@
 "1839","Home Birth (Planned)",64,60,4,0,"Washington County",2018
 "1840","Home Birth (Unplanned)",3,3,0,0,"Washington County",2018
 "1841","Other",5,5,0,0,"Washington County",2018
-"1842","Total births",1,1,0,0,"Wheeler County",2018
+"1842","Total Births",1,1,0,0,"Wheeler County",2018
 "1843","Home Birth (Planned)",1,1,0,0,"Wheeler County",2018
-"1844","Total births",1009,759,20,230,"Yamhill County",2018
+"1844","Total Births",1009,759,20,230,"Yamhill County",2018
 "1845","Providence Newberg Medical Center",494,363,6,125,"Yamhill County",2018
 "1846","Willamette Valley Medical Center",427,310,12,105,"Yamhill County",2018
 "1847","Andaluz Birth Center - Portland",1,1,0,0,"Yamhill County",2018
@@ -1851,90 +1851,90 @@
 "1850","Home Birth (Planned)",22,22,0,0,"Yamhill County",2018
 "1851","Home Birth (Unplanned)",1,1,0,0,"Yamhill County",2018
 "1852","Other",1,1,0,0,"Yamhill County",2018
-"1853","Total births",42292,29437,1044,11811,"State total",2019
-"1854","Total births",138,102,2,34,"Baker County",2019
+"1853","Total Births",42292,29437,1044,11811,"State Total",2019
+"1854","Total Births",138,102,2,34,"Baker County",2019
 "1855","St Alphonsus Medical Center - Baker City",134,99,1,34,"Baker County",2019
 "1856","Home Birth (Planned)",3,2,1,0,"Baker County",2019
 "1857","Home Birth (Unplanned)",1,1,0,0,"Baker County",2019
-"1858","Total births",1062,789,37,236,"Benton County",2019
+"1858","Total Births",1062,789,37,236,"Benton County",2019
 "1859","Good Samaritan Regional Medical Center",967,699,32,236,"Benton County",2019
 "1860","Corvallis Birth and Women's Health Center LLC",77,75,2,0,"Benton County",2019
 "1861","Home Birth (Planned)",16,13,3,0,"Benton County",2019
 "1862","Home Birth (Unplanned)",1,1,0,0,"Benton County",2019
 "1863","Other",1,1,0,0,"Benton County",2019
-"1864","Total births",4172,2932,109,1131,"Clackamas County",2019
+"1864","Total Births",4172,2932,109,1131,"Clackamas County",2019
 "1865","Kaiser Sunnyside Medical Center",2280,1587,66,627,"Clackamas County",2019
 "1866","Legacy Meridian Park Medical Center",987,687,19,281,"Clackamas County",2019
 "1867","Providence Willamette Falls Medical Center",816,569,24,223,"Clackamas County",2019
 "1868","Home Birth (Planned)",86,86,0,0,"Clackamas County",2019
 "1869","Home Birth (Unplanned)",3,3,0,0,"Clackamas County",2019
-"1870","Total births",402,306,1,95,"Clatsop County",2019
+"1870","Total Births",402,306,1,95,"Clatsop County",2019
 "1871","Columbia Memorial Hospital",297,220,1,76,"Clatsop County",2019
 "1872","Providence Seaside Hospital",92,73,0,19,"Clatsop County",2019
 "1873","Home Birth (Planned)",12,12,0,0,"Clatsop County",2019
 "1874","Home Birth (Unplanned)",1,1,0,0,"Clatsop County",2019
-"1875","Total births",12,12,0,0,"Columbia County",2019
+"1875","Total Births",12,12,0,0,"Columbia County",2019
 "1876","Home Birth (Planned)",11,11,0,0,"Columbia County",2019
 "1877","Home Birth (Unplanned)",1,1,0,0,"Columbia County",2019
-"1878","Total births",641,459,16,166,"Coos County",2019
+"1878","Total Births",641,459,16,166,"Coos County",2019
 "1879","Bay Area Hospital",632,450,16,166,"Coos County",2019
 "1880","Home Birth (Planned)",6,6,0,0,"Coos County",2019
 "1881","Home Birth (Unplanned)",1,1,0,0,"Coos County",2019
 "1882","Other",2,2,0,0,"Coos County",2019
-"1883","Total births",8,8,0,0,"Crook County",2019
+"1883","Total Births",8,8,0,0,"Crook County",2019
 "1884","St Charles Prineville",2,2,0,0,"Crook County",2019
 "1885","Home Birth (Planned)",6,6,0,0,"Crook County",2019
-"1886","Total births",7,7,0,0,"Curry County",2019
+"1886","Total Births",7,7,0,0,"Curry County",2019
 "1887","Curry General Hospital",1,1,0,0,"Curry County",2019
 "1888","Home Birth (Planned)",4,4,0,0,"Curry County",2019
 "1889","Home Birth (Unplanned)",2,2,0,0,"Curry County",2019
-"1890","Total births",2246,1517,54,675,"Deschutes County",2019
+"1890","Total Births",2246,1517,54,675,"Deschutes County",2019
 "1891","St Charles Medical Center - Bend",1955,1279,52,624,"Deschutes County",2019
 "1892","St Charles Medical Center - Redmond",223,172,0,51,"Deschutes County",2019
 "1893","Bend Birth Center",7,7,0,0,"Deschutes County",2019
 "1894","Home Birth (Planned)",57,55,2,0,"Deschutes County",2019
 "1895","Home Birth (Unplanned)",3,3,0,0,"Deschutes County",2019
 "1896","Other",1,1,0,0,"Deschutes County",2019
-"1897","Total births",868,687,29,152,"Douglas County",2019
+"1897","Total Births",868,687,29,152,"Douglas County",2019
 "1898","Mercy Medical Center, Inc",848,669,27,152,"Douglas County",2019
 "1899","Home Birth (Planned)",14,13,1,0,"Douglas County",2019
 "1900","Home Birth (Unplanned)",4,3,1,0,"Douglas County",2019
 "1901","Other",2,2,0,0,"Douglas County",2019
-"1902","Total births",2,2,0,0,"Gilliam County",2019
+"1902","Total Births",2,2,0,0,"Gilliam County",2019
 "1903","Home Birth (Planned)",2,2,0,0,"Gilliam County",2019
-"1904","Total births",44,32,0,12,"Grant County",2019
+"1904","Total Births",44,32,0,12,"Grant County",2019
 "1905","Blue Mountain Hospital",42,30,0,12,"Grant County",2019
 "1906","Home Birth (Planned)",2,2,0,0,"Grant County",2019
-"1907","Total births",50,38,0,12,"Harney County",2019
+"1907","Total Births",50,38,0,12,"Harney County",2019
 "1908","Harney District Hospital",50,38,0,12,"Harney County",2019
-"1909","Total births",412,327,2,83,"Hood River County",2019
+"1909","Total Births",412,327,2,83,"Hood River County",2019
 "1910","Providence Hood River Memorial Hospital",403,318,2,83,"Hood River County",2019
 "1911","Home Birth (Planned)",9,9,0,0,"Hood River County",2019
-"1912","Total births",2326,1535,33,758,"Jackson County",2019
+"1912","Total Births",2326,1535,33,758,"Jackson County",2019
 "1913","Asante Ashland Community Hospital",220,166,6,48,"Jackson County",2019
 "1914","Providence Medford Medical Center",502,342,2,158,"Jackson County",2019
 "1915","Asante Rogue Regional Medical Center",1542,968,22,552,"Jackson County",2019
 "1916","Home Birth (Planned)",56,53,3,0,"Jackson County",2019
 "1917","Home Birth (Unplanned)",3,3,0,0,"Jackson County",2019
 "1918","Other",3,3,0,0,"Jackson County",2019
-"1919","Total births",171,146,0,25,"Jefferson County",2019
+"1919","Total Births",171,146,0,25,"Jefferson County",2019
 "1920","St Charles - Madras",167,142,0,25,"Jefferson County",2019
 "1921","Home Birth (Planned)",4,4,0,0,"Jefferson County",2019
-"1922","Total births",793,607,1,185,"Josephine County",2019
+"1922","Total Births",793,607,1,185,"Josephine County",2019
 "1923","Asante Three Rivers Medical Center",733,548,0,185,"Josephine County",2019
 "1924","Rogue Birth Center, LLC",38,38,0,0,"Josephine County",2019
 "1925","Home Birth (Planned)",21,20,1,0,"Josephine County",2019
 "1926","Home Birth (Unplanned)",1,1,0,0,"Josephine County",2019
-"1927","Total births",828,649,9,170,"Klamath County",2019
+"1927","Total Births",828,649,9,170,"Klamath County",2019
 "1928","Sky Lakes Medical Center",802,624,8,170,"Klamath County",2019
 "1929","Klamath Birth Center",15,14,1,0,"Klamath County",2019
 "1930","Home Birth (Planned)",9,9,0,0,"Klamath County",2019
 "1931","Home Birth (Unplanned)",1,1,0,0,"Klamath County",2019
 "1932","Home Birth (Unknown if Planned)",1,1,0,0,"Klamath County",2019
-"1933","Total births",68,48,0,20,"Lake County",2019
+"1933","Total Births",68,48,0,20,"Lake County",2019
 "1934","Lake District Hospital",67,47,0,20,"Lake County",2019
 "1935","Home Birth (Planned)",1,1,0,0,"Lake County",2019
-"1936","Total births",3553,2268,82,1203,"Lane County",2019
+"1936","Total Births",3553,2268,82,1203,"Lane County",2019
 "1937","McKenzie-Willamette Medical Center",880,534,20,326,"Lane County",2019
 "1938","Peace Harbor Medical Center",64,48,1,15,"Lane County",2019
 "1939","Sacred Heart Medical Center - RiverBend",2489,1572,55,862,"Lane County",2019
@@ -1943,21 +1943,21 @@
 "1942","Home Birth (Unplanned)",6,5,1,0,"Lane County",2019
 "1943","Home Birth (Unknown if Planned)",1,1,0,0,"Lane County",2019
 "1944","Other",3,3,0,0,"Lane County",2019
-"1945","Total births",318,249,1,68,"Lincoln County",2019
+"1945","Total Births",318,249,1,68,"Lincoln County",2019
 "1946","Samaritan North Lincoln Hospital",111,77,0,34,"Lincoln County",2019
 "1947","Samaritan Pacific Communities Hospital",199,165,0,34,"Lincoln County",2019
 "1948","Home Birth (Planned)",7,6,1,0,"Lincoln County",2019
 "1949","Other",1,1,0,0,"Lincoln County",2019
-"1950","Total births",829,599,9,221,"Linn County",2019
+"1950","Total Births",829,599,9,221,"Linn County",2019
 "1951","Samaritan Albany General Hospital",499,344,0,155,"Linn County",2019
 "1952","Samaritan Lebanon Community Hospital",259,192,1,66,"Linn County",2019
 "1953","Growing Family Birth Center, LLC",19,17,2,0,"Linn County",2019
 "1954","Home Birth (Planned)",49,44,5,0,"Linn County",2019
 "1955","Home Birth (Unplanned)",3,2,1,0,"Linn County",2019
-"1956","Total births",422,310,3,109,"Malheur County",2019
+"1956","Total Births",422,310,3,109,"Malheur County",2019
 "1957","St Alphonsus Medical Center - Ontario, Inc",421,309,3,109,"Malheur County",2019
 "1958","Home Birth (Planned)",1,1,0,0,"Malheur County",2019
-"1959","Total births",4834,3395,104,1335,"Marion County",2019
+"1959","Total Births",4834,3395,104,1335,"Marion County",2019
 "1960","Salem Hospital",3327,2237,63,1027,"Marion County",2019
 "1961","Santiam Memorial Hospital",135,101,0,34,"Marion County",2019
 "1962","Legacy Silverton Medical Center",1265,953,38,274,"Marion County",2019
@@ -1966,9 +1966,9 @@
 "1965","Home Birth (Planned)",62,62,0,0,"Marion County",2019
 "1966","Home Birth (Unplanned)",7,5,2,0,"Marion County",2019
 "1967","Other",1,1,0,0,"Marion County",2019
-"1968","Total births",1,1,0,0,"Morrow County",2019
+"1968","Total Births",1,1,0,0,"Morrow County",2019
 "1969","Home Birth (Planned)",1,1,0,0,"Morrow County",2019
-"1970","Total births",9791,6603,344,2844,"Multnomah County",2019
+"1970","Total Births",9791,6603,344,2844,"Multnomah County",2019
 "1971","Adventist Medical Center",743,539,8,196,"Multnomah County",2019
 "1972","Legacy Emanuel Medical Center",1798,1063,82,653,"Multnomah County",2019
 "1973","Legacy Good Samaritan Medical Center",1062,739,7,316,"Multnomah County",2019
@@ -1982,33 +1982,33 @@
 "1981","Home Birth (Unplanned)",14,12,2,0,"Multnomah County",2019
 "1982","Home Birth (Unknown if Planned)",1,1,0,0,"Multnomah County",2019
 "1983","Other",7,5,2,0,"Multnomah County",2019
-"1984","Total births",17,17,0,0,"Polk County",2019
+"1984","Total Births",17,17,0,0,"Polk County",2019
 "1985","Home Birth (Planned)",15,15,0,0,"Polk County",2019
 "1986","Home Birth (Unplanned)",1,1,0,0,"Polk County",2019
 "1987","Other",1,1,0,0,"Polk County",2019
-"1988","Total births",1,1,0,0,"Sherman County",2019
+"1988","Total Births",1,1,0,0,"Sherman County",2019
 "1989","Home Birth (Planned)",1,1,0,0,"Sherman County",2019
-"1990","Total births",195,136,1,58,"Tillamook County",2019
+"1990","Total Births",195,136,1,58,"Tillamook County",2019
 "1991","Tillamook Regional Medical Center",188,129,1,58,"Tillamook County",2019
 "1992","Home Birth (Planned)",7,7,0,0,"Tillamook County",2019
-"1993","Total births",757,546,0,211,"Umatilla County",2019
+"1993","Total Births",757,546,0,211,"Umatilla County",2019
 "1994","Good Shepherd Medical Center",420,300,0,120,"Umatilla County",2019
 "1995","St Anthony Hospital",332,241,0,91,"Umatilla County",2019
 "1996","Home Birth (Planned)",1,1,0,0,"Umatilla County",2019
 "1997","Home Birth (Unplanned)",1,1,0,0,"Umatilla County",2019
 "1998","Home Birth (Unknown if Planned)",2,2,0,0,"Umatilla County",2019
 "1999","Other",1,1,0,0,"Umatilla County",2019
-"2000","Total births",236,148,5,83,"Union County",2019
+"2000","Total Births",236,148,5,83,"Union County",2019
 "2001","Grande Ronde Hospital",221,134,4,83,"Union County",2019
 "2002","Home Birth (Planned)",14,13,1,0,"Union County",2019
 "2003","Home Birth (Unplanned)",1,1,0,0,"Union County",2019
-"2004","Total births",59,37,2,20,"Wallowa County",2019
+"2004","Total Births",59,37,2,20,"Wallowa County",2019
 "2005","Wallowa Memorial Hospital",53,33,0,20,"Wallowa County",2019
 "2006","Home Birth (Planned)",6,4,2,0,"Wallowa County",2019
-"2007","Total births",258,206,0,52,"Wasco County",2019
+"2007","Total Births",258,206,0,52,"Wasco County",2019
 "2008","Mid-Columbia Medical Center",253,201,0,52,"Wasco County",2019
 "2009","Home Birth (Planned)",5,5,0,0,"Wasco County",2019
-"2010","Total births",5796,3987,178,1631,"Washington County",2019
+"2010","Total Births",5796,3987,178,1631,"Washington County",2019
 "2011","Providence St Vincent Medical Center",3548,2296,119,1133,"Washington County",2019
 "2012","Tuality Community Hospital",581,443,14,124,"Washington County",2019
 "2013","Kaiser Foundation Hospital - Westside",1553,1138,41,374,"Washington County",2019
@@ -2016,24 +2016,24 @@
 "2015","Home Birth (Planned)",58,55,3,0,"Washington County",2019
 "2016","Home Birth (Unplanned)",11,10,1,0,"Washington County",2019
 "2017","Other",4,4,0,0,"Washington County",2019
-"2018","Total births",1,0,1,0,"Wheeler County",2019
+"2018","Total Births",1,0,1,0,"Wheeler County",2019
 "2019","Home Birth (Planned)",1,0,1,0,"Wheeler County",2019
-"2020","Total births",974,731,21,222,"Yamhill County",2019
+"2020","Total Births",974,731,21,222,"Yamhill County",2019
 "2021","Providence Newberg Medical Center",468,363,10,95,"Yamhill County",2019
 "2022","Willamette Valley Medical Center",419,285,7,127,"Yamhill County",2019
 "2023","Bella Vie Gentle Birth Center",45,43,2,0,"Yamhill County",2019
 "2024","Andaluz - Dundee",22,22,0,0,"Yamhill County",2019
 "2025","Home Birth (Planned)",20,18,2,0,"Yamhill County",2019
-"2026","Total births",40371,27821,931,11619,"State total",2020
-"2027","Total births",105,87,0,18,"Baker County",2020
+"2026","Total Births",40371,27821,931,11619,"State Total",2020
+"2027","Total Births",105,87,0,18,"Baker County",2020
 "2028","St Alphonsus Medical Center - Baker City, Inc",100,82,0,18,"Baker County",2020
 "2029","Home Birth (Planned)",5,5,0,0,"Baker County",2020
-"2030","Total births",991,730,40,221,"Benton County",2020
+"2030","Total Births",991,730,40,221,"Benton County",2020
 "2031","Good Samaritan Regional Medical Center",876,616,39,221,"Benton County",2020
 "2032","Corvallis Birth and Women's Health Center LLC",100,99,1,0,"Benton County",2020
 "2033","Home Birth (Planned)",14,14,0,0,"Benton County",2020
 "2034","Home Birth (Unplanned)",1,1,0,0,"Benton County",2020
-"2035","Total births",4103,2853,107,1143,"Clackamas County",2020
+"2035","Total Births",4103,2853,107,1143,"Clackamas County",2020
 "2036","Kaiser Sunnyside Medical Center",2244,1558,55,631,"Clackamas County",2020
 "2037","Legacy Meridian Park Medical Center",950,638,16,296,"Clackamas County",2020
 "2038","Providence Milwaukie Hospital",1,1,0,0,"Clackamas County",2020
@@ -2041,71 +2041,71 @@
 "2040","Home Birth (Planned)",84,80,4,0,"Clackamas County",2020
 "2041","Home Birth (Unplanned)",3,3,0,0,"Clackamas County",2020
 "2042","Other",2,2,0,0,"Clackamas County",2020
-"2043","Total births",380,293,1,86,"Clatsop County",2020
+"2043","Total Births",380,293,1,86,"Clatsop County",2020
 "2044","Columbia Memorial Hospital",284,215,0,69,"Clatsop County",2020
 "2045","Providence Seaside Hospital",80,63,0,17,"Clatsop County",2020
 "2046","Astoria Birth Center LLC",5,5,0,0,"Clatsop County",2020
 "2047","Home Birth (Planned)",11,10,1,0,"Clatsop County",2020
-"2048","Total births",7,7,0,0,"Columbia County",2020
+"2048","Total Births",7,7,0,0,"Columbia County",2020
 "2049","Home Birth (Planned)",6,6,0,0,"Columbia County",2020
 "2050","Clinic/Doctor's Office",1,1,0,0,"Columbia County",2020
-"2051","Total births",648,466,12,170,"Coos County",2020
+"2051","Total Births",648,466,12,170,"Coos County",2020
 "2052","Bay Area Hospital",638,456,12,170,"Coos County",2020
 "2053","Home Birth (Planned)",5,5,0,0,"Coos County",2020
 "2054","Home Birth (Unplanned)",3,3,0,0,"Coos County",2020
 "2055","Other",2,2,0,0,"Coos County",2020
-"2056","Total births",15,13,2,0,"Crook County",2020
+"2056","Total Births",15,13,2,0,"Crook County",2020
 "2057","St Charles Prineville",4,3,1,0,"Crook County",2020
 "2058","Home Birth (Planned)",10,9,1,0,"Crook County",2020
 "2059","Home Birth (Unplanned)",1,1,0,0,"Crook County",2020
-"2060","Total births",6,6,0,0,"Curry County",2020
+"2060","Total Births",6,6,0,0,"Curry County",2020
 "2061","Curry General Hospital",1,1,0,0,"Curry County",2020
 "2062","Home Birth (Planned)",5,5,0,0,"Curry County",2020
-"2063","Total births",2231,1504,29,698,"Deschutes County",2020
+"2063","Total Births",2231,1504,29,698,"Deschutes County",2020
 "2064","St Charles Medical Center - Bend",2110,1385,27,698,"Deschutes County",2020
 "2065","St Charles Medical Center - Redmond",2,2,0,0,"Deschutes County",2020
 "2066","Bend Birth Center",8,8,0,0,"Deschutes County",2020
 "2067","Home Birth (Planned)",104,102,2,0,"Deschutes County",2020
 "2068","Home Birth (Unplanned)",7,7,0,0,"Deschutes County",2020
-"2069","Total births",874,711,23,140,"Douglas County",2020
+"2069","Total Births",874,711,23,140,"Douglas County",2020
 "2070","Lower Umpqua Hospital District",1,1,0,0,"Douglas County",2020
 "2071","Mercy Medical Center",850,689,21,140,"Douglas County",2020
 "2072","Home Birth (Planned)",22,20,2,0,"Douglas County",2020
 "2073","Home Birth (Unplanned)",1,1,0,0,"Douglas County",2020
-"2074","Total births",27,19,0,8,"Grant County",2020
+"2074","Total Births",27,19,0,8,"Grant County",2020
 "2075","Blue Mountain Hospital",23,15,0,8,"Grant County",2020
 "2076","Home Birth (Planned)",3,3,0,0,"Grant County",2020
 "2077","Other",1,1,0,0,"Grant County",2020
-"2078","Total births",49,39,0,10,"Harney County",2020
+"2078","Total Births",49,39,0,10,"Harney County",2020
 "2079","Harney District Hospital",49,39,0,10,"Harney County",2020
-"2080","Total births",389,283,2,104,"Hood River County",2020
+"2080","Total Births",389,283,2,104,"Hood River County",2020
 "2081","Providence Hood River Memorial Hospital",381,275,2,104,"Hood River County",2020
 "2082","Home Birth (Planned)",8,8,0,0,"Hood River County",2020
-"2083","Total births",2291,1459,46,786,"Jackson County",2020
+"2083","Total Births",2291,1459,46,786,"Jackson County",2020
 "2084","Asante Ashland Community Hospital",217,158,1,58,"Jackson County",2020
 "2085","Providence Medford Medical Center",405,287,0,118,"Jackson County",2020
 "2086","Asante Rogue Regional Medical Center",1608,954,44,610,"Jackson County",2020
 "2087","Home Birth (Planned)",51,50,1,0,"Jackson County",2020
 "2088","Home Birth (Unplanned)",5,5,0,0,"Jackson County",2020
 "2089","Other",5,5,0,0,"Jackson County",2020
-"2090","Total births",174,144,1,29,"Jefferson County",2020
+"2090","Total Births",174,144,1,29,"Jefferson County",2020
 "2091","St Charles - Madras",168,138,1,29,"Jefferson County",2020
 "2092","Home Birth (Planned)",6,6,0,0,"Jefferson County",2020
-"2093","Total births",756,608,3,145,"Josephine County",2020
+"2093","Total Births",756,608,3,145,"Josephine County",2020
 "2094","Asante Three Rivers Medical Center",688,541,2,145,"Josephine County",2020
 "2095","Rogue Birth Center, LLC",51,50,1,0,"Josephine County",2020
 "2096","Home Birth (Planned)",16,16,0,0,"Josephine County",2020
 "2097","Home Birth (Unknown if Planned)",1,1,0,0,"Josephine County",2020
-"2098","Total births",743,539,2,202,"Klamath County",2020
+"2098","Total Births",743,539,2,202,"Klamath County",2020
 "2099","Sky Lakes Medical Center",723,519,2,202,"Klamath County",2020
 "2100","Klamath Birth Center",11,11,0,0,"Klamath County",2020
 "2101","Home Birth (Planned)",8,8,0,0,"Klamath County",2020
 "2102","Home Birth (Unplanned)",1,1,0,0,"Klamath County",2020
-"2103","Total births",74,50,0,24,"Lake County",2020
+"2103","Total Births",74,50,0,24,"Lake County",2020
 "2104","Lake District Hospital",72,48,0,24,"Lake County",2020
 "2105","Home Birth (Planned)",1,1,0,0,"Lake County",2020
 "2106","Home Birth (Unplanned)",1,1,0,0,"Lake County",2020
-"2107","Total births",3254,2053,51,1150,"Lane County",2020
+"2107","Total Births",3254,2053,51,1150,"Lane County",2020
 "2108","McKenzie-Willamette Medical Center",831,507,11,313,"Lane County",2020
 "2109","Peace Harbor Medical Center",51,39,0,12,"Lane County",2020
 "2110","Sacred Heart Medical Center - RiverBend",2267,1402,40,825,"Lane County",2020
@@ -2113,24 +2113,24 @@
 "2112","Home Birth (Unplanned)",8,8,0,0,"Lane County",2020
 "2113","Home Birth (Unknown if Planned)",1,1,0,0,"Lane County",2020
 "2114","Other",2,2,0,0,"Lane County",2020
-"2115","Total births",301,211,0,90,"Lincoln County",2020
+"2115","Total Births",301,211,0,90,"Lincoln County",2020
 "2116","Samaritan North Lincoln Hospital",118,83,0,35,"Lincoln County",2020
 "2117","Samaritan Pacific Communities Hospital",169,114,0,55,"Lincoln County",2020
 "2118","Home Birth (Planned)",11,11,0,0,"Lincoln County",2020
 "2119","Home Birth (Unplanned)",1,1,0,0,"Lincoln County",2020
 "2120","Other",2,2,0,0,"Lincoln County",2020
-"2121","Total births",857,606,5,246,"Linn County",2020
+"2121","Total Births",857,606,5,246,"Linn County",2020
 "2122","Samaritan Albany General Hospital",469,301,0,168,"Linn County",2020
 "2123","Samaritan Lebanon Community Hospital",306,226,2,78,"Linn County",2020
 "2124","Growing Family Birth Center, LLC",25,25,0,0,"Linn County",2020
 "2125","Home Birth (Planned)",50,47,3,0,"Linn County",2020
 "2126","Home Birth (Unplanned)",6,6,0,0,"Linn County",2020
 "2127","Home Birth (Unknown if Planned)",1,1,0,0,"Linn County",2020
-"2128","Total births",442,328,2,112,"Malheur County",2020
+"2128","Total Births",442,328,2,112,"Malheur County",2020
 "2129","St Alphonsus Medical Center - Ontario, Inc",432,320,0,112,"Malheur County",2020
 "2130","Home Birth (Planned)",9,7,2,0,"Malheur County",2020
 "2131","Home Birth (Unplanned)",1,1,0,0,"Malheur County",2020
-"2132","Total births",4585,3193,108,1284,"Marion County",2020
+"2132","Total Births",4585,3193,108,1284,"Marion County",2020
 "2133","Salem Hospital",3066,2024,74,968,"Marion County",2020
 "2134","Santiam Memorial Hospital",189,153,1,35,"Marion County",2020
 "2135","Legacy Silverton Medical Center",1184,874,29,281,"Marion County",2020
@@ -2139,7 +2139,7 @@
 "2138","Home Birth (Planned)",89,86,3,0,"Marion County",2020
 "2139","Home Birth (Unplanned)",3,3,0,0,"Marion County",2020
 "2140","Other",4,4,0,0,"Marion County",2020
-"2141","Total births",9140,6032,303,2805,"Multnomah County",2020
+"2141","Total Births",9140,6032,303,2805,"Multnomah County",2020
 "2142","Adventist Medical Center",583,387,10,186,"Multnomah County",2020
 "2143","Legacy Emanuel Medical Center",1660,975,48,637,"Multnomah County",2020
 "2144","Legacy Good Samaritan Medical Center",909,596,8,305,"Multnomah County",2020
@@ -2153,33 +2153,33 @@
 "2152","Home Birth (Unplanned)",8,7,1,0,"Multnomah County",2020
 "2153","Home Birth (Unknown if Planned)",1,1,0,0,"Multnomah County",2020
 "2154","Other",6,6,0,0,"Multnomah County",2020
-"2155","Total births",17,17,0,0,"Polk County",2020
+"2155","Total Births",17,17,0,0,"Polk County",2020
 "2156","Home Birth (Planned)",16,16,0,0,"Polk County",2020
 "2157","Home Birth (Unplanned)",1,1,0,0,"Polk County",2020
-"2158","Total births",1,1,0,0,"Sherman County",2020
+"2158","Total Births",1,1,0,0,"Sherman County",2020
 "2159","Home Birth (Planned)",1,1,0,0,"Sherman County",2020
-"2160","Total births",196,132,1,63,"Tillamook County",2020
+"2160","Total Births",196,132,1,63,"Tillamook County",2020
 "2161","Tillamook Regional Medical Center",187,124,0,63,"Tillamook County",2020
 "2162","Home Birth (Planned)",8,7,1,0,"Tillamook County",2020
 "2163","Home Birth (Unplanned)",1,1,0,0,"Tillamook County",2020
-"2164","Total births",697,512,3,182,"Umatilla County",2020
+"2164","Total Births",697,512,3,182,"Umatilla County",2020
 "2165","Good Shepherd Medical Center",370,278,2,90,"Umatilla County",2020
 "2166","St Anthony Hospital",321,228,1,92,"Umatilla County",2020
 "2167","Home Birth (Planned)",4,4,0,0,"Umatilla County",2020
 "2168","Home Birth (Unplanned)",1,1,0,0,"Umatilla County",2020
 "2169","Other",1,1,0,0,"Umatilla County",2020
-"2170","Total births",235,161,0,74,"Union County",2020
+"2170","Total Births",235,161,0,74,"Union County",2020
 "2171","Grande Ronde Hospital",226,152,0,74,"Union County",2020
 "2172","Home Birth (Planned)",9,9,0,0,"Union County",2020
-"2173","Total births",41,24,0,17,"Wallowa County",2020
+"2173","Total Births",41,24,0,17,"Wallowa County",2020
 "2174","Wallowa Memorial Hospital",37,20,0,17,"Wallowa County",2020
 "2175","Home Birth (Planned)",4,4,0,0,"Wallowa County",2020
-"2176","Total births",225,175,0,50,"Wasco County",2020
+"2176","Total Births",225,175,0,50,"Wasco County",2020
 "2177","Mid-Columbia Medical Center",219,169,0,50,"Wasco County",2020
 "2178","Home Birth (Planned)",4,4,0,0,"Wasco County",2020
 "2179","Home Birth (Unplanned)",1,1,0,0,"Wasco County",2020
 "2180","Other",1,1,0,0,"Wasco County",2020
-"2181","Total births",5618,3886,164,1568,"Washington County",2020
+"2181","Total Births",5618,3886,164,1568,"Washington County",2020
 "2182","Providence St Vincent Medical Center",3503,2316,104,1083,"Washington County",2020
 "2183","Tuality Community Hospital",578,423,14,141,"Washington County",2020
 "2184","Kaiser Foundation Hospital - Westside",1434,1047,43,344,"Washington County",2020
@@ -2187,7 +2187,7 @@
 "2186","Home Birth (Planned)",56,55,1,0,"Washington County",2020
 "2187","Home Birth (Unplanned)",6,5,1,0,"Washington County",2020
 "2188","Other",2,2,0,0,"Washington County",2020
-"2189","Total births",899,679,26,194,"Yamhill County",2020
+"2189","Total Births",899,679,26,194,"Yamhill County",2020
 "2190","Providence Newberg Medical Center",442,339,8,95,"Yamhill County",2020
 "2191","Willamette Valley Medical Center",360,252,9,99,"Yamhill County",2020
 "2192","Bella Vie Gentle Birth Center",43,41,2,0,"Yamhill County",2020
