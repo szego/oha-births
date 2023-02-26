@@ -21,7 +21,7 @@ We loop through each PDF, loading them with `pdftools::pdf_data()`. That functio
 quiet_integer <- quietly(as.integer)
 
 all_data <- 
-  8:20 %>% 
+  8:21 %>% 
   map_dfr(function(data_year) {
     str_pad(data_year, width = 2, side = "left", pad = "0") %>% 
       paste0("facilcesarean", ., ".pdf") %>% 
@@ -95,7 +95,7 @@ all_data
 
 ```{r eval=FALSE}
 saveRDS(all_data, here("output", "oha_mod.rds"))
-write.csv(all_data, here("output", "oha_mod_2008-2020.csv"))
+readr::write_csv(all_data, here("output", "oha_mod_2008-2021.csv"))
 ```
 
 
